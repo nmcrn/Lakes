@@ -1,6 +1,5 @@
 import create_db
 from create_db import Lake, Country
-from sqlalchemy.sql import func
 from create_db import Country, Lake
 
 
@@ -36,7 +35,3 @@ def country_total_lakes_volume(country):
         for lake in lakes_in_country:
             total_volume += lake.volume
         return total_volume
-#Do it later with sqlalchemy sum function.
-
-
-print(country_total_lakes_volume("Japan"))
