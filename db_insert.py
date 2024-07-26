@@ -1,10 +1,14 @@
 import create_db
-from create_db import Lake
+from create_db import Lake, Country
 
 def insert_lake(name, riparian_nations, surface_area = None, shorline = None, frozen_period = None,
                 mean_depth = None, catchment_area = None, mixing_type = None, volume = None, residence_time = None,
                 morphogenesis_or_dam = None, related_info_or_site = None, longitude = None, latitude = None):
     with create_db.DbSession() as db:
+        country = db.query(Country).filter(Country.name == riparian_nations).first()
+        if not country:
+            insert_country(riparian_nations)
+            country = db.query(Country).filter(Country.name == riparian_nations).first()
         db.add(create_db.Lake(name = name,
                               riparian_nations = riparian_nations, 
                               surface_area = surface_area, 
@@ -25,6 +29,10 @@ def update_lake(id, name = None, riparian_nations = None, surface_area = None, s
                 mean_depth = None, catchment_area = None, mixing_type = None, volume = None, residence_time = None,
                 morphogenesis_or_dam = None, related_info_or_site = None, longitude = None, latitude = None):
     with create_db.DbSession() as db:
+        country = db.query(Country).filter(Country.name == riparian_nations).first()
+        if not country:
+            insert_country(riparian_nations)
+            country = db.query(Country).filter(Country.name == riparian_nations).first()
         update_data = {}
         if name is not None:
             update_data[Lake.name] = name
