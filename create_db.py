@@ -21,7 +21,6 @@ class Lake(Base):
     residence_time = Column(Float)
     morphogenesis_or_dam = Column(String)
     related_info_or_site = Column(String)
-    #country = relationship("Country")
     longitude = Column(Float)
     latitude = Column(Float)
 
