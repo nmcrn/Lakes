@@ -22,7 +22,7 @@ def country_largest_lake(country_name):
 def max_depth_grater_then_400():
     with create_db.DbSession() as db:
         max_depth_lakes = db.query(Lake).\
-        filter(Lake.mean_depth >= 7).\
+        filter(Lake.mean_depth >= 400).\
         all()
         return [lake.name for lake in max_depth_lakes]
     

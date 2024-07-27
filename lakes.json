@@ -1,0 +1,5023 @@
+{
+    "Lakes": [
+        {
+            "name": "Lake Abashiri",
+            "country": "Japan",
+            "lake_surface_area": 33.0,
+            "lake_mean_depth": 7.2,
+            "lake_volume": 0.23
+        },
+        {
+            "name": "Lake Abaya",
+            "country": "Ethiopia",
+            "lake_surface_area": 1160.0,
+            "lake_mean_depth": 7.0,
+            "lake_volume": 8.2
+        },
+        {
+            "name": "Aberdeen Lake",
+            "country": "Canada",
+            "lake_surface_area": 1100.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Abert Lake",
+            "country": "USA",
+            "lake_surface_area": 148.0,
+            "lake_mean_depth": 2.2,
+            "lake_volume": 0.33
+        },
+        {
+            "name": "Lake Abhe",
+            "country": "Djibouti, Ethiopia",
+            "lake_surface_area": 320.0,
+            "lake_mean_depth": 8.6,
+            "lake_volume": 3.0
+        },
+        {
+            "name": "Lake Abhe",
+            "country": "Djibouti, Ethiopia",
+            "lake_surface_area": 320.0,
+            "lake_mean_depth": 8.6,
+            "lake_volume": 3.0
+        },
+        {
+            "name": "Lake Abijata",
+            "country": "Ethiopia",
+            "lake_surface_area": 205.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Abitibi",
+            "country": "Canada",
+            "lake_surface_area": 904.0,
+            "lake_mean_depth": 3.0,
+            "lake_volume": 2.5
+        },
+        {
+            "name": "Aby Lagoon",
+            "country": "Cote d'Ivoire",
+            "lake_surface_area": 780.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Afambo",
+            "country": "Ethiopia",
+            "lake_surface_area": 18.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Aggol",
+            "country": "Azerbaidjan",
+            "lake_surface_area": 56.0,
+            "lake_mean_depth": null,
+            "lake_volume": 0.45
+        },
+        {
+            "name": "Agua Vermelha Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 650.0,
+            "lake_mean_depth": null,
+            "lake_volume": 11.0
+        },
+        {
+            "name": "Aishihik Lake",
+            "country": "Canada",
+            "lake_surface_area": 146.0,
+            "lake_mean_depth": 30.0,
+            "lake_volume": 4.38
+        },
+        {
+            "name": "Lake Akan",
+            "country": "Japan",
+            "lake_surface_area": 13.0,
+            "lake_mean_depth": 17.8,
+            "lake_volume": 0.23
+        },
+        {
+            "name": "Lake Alakol",
+            "country": "Kazakhstan",
+            "lake_surface_area": 2650.0,
+            "lake_mean_depth": 22.0,
+            "lake_volume": 58.6
+        },
+        {
+            "name": "Lake Albert",
+            "country": "Congo  ( Dem. Rep. ), Uganda",
+            "lake_surface_area": 5300.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Alexandrina",
+            "country": "Australia",
+            "lake_surface_area": 570.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Alicura Reservoir",
+            "country": "Argentina",
+            "lake_surface_area": 68.0,
+            "lake_mean_depth": 48.4,
+            "lake_volume": 3.27
+        },
+        {
+            "name": "Lake Alumine",
+            "country": "Argentina",
+            "lake_surface_area": 57.0,
+            "lake_mean_depth": 69.4,
+            "lake_volume": 3.95
+        },
+        {
+            "name": "Lake Amadeus",
+            "country": "Australia",
+            "lake_surface_area": 880.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Amadjuak Lake",
+            "country": "Canada",
+            "lake_surface_area": 3060.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Amatitlan",
+            "country": "Guatemala",
+            "lake_surface_area": 15.0,
+            "lake_mean_depth": 18.0,
+            "lake_volume": 0.28
+        },
+        {
+            "name": "Amisk Lake",
+            "country": "Canada",
+            "lake_surface_area": 5.0,
+            "lake_mean_depth": 15.5,
+            "lake_volume": 0.09
+        },
+        {
+            "name": "Amistad Reservoir",
+            "country": "Mexico, USA",
+            "lake_surface_area": 132.0,
+            "lake_mean_depth": 49.0,
+            "lake_volume": 6.0
+        },
+        {
+            "name": "Ammersee",
+            "country": "Germany",
+            "lake_surface_area": 47.0,
+            "lake_mean_depth": 38.1,
+            "lake_volume": 1.77
+        },
+        {
+            "name": "Ammersee",
+            "country": "Germany",
+            "lake_surface_area": 47.0,
+            "lake_mean_depth": 38.1,
+            "lake_volume": 1.77
+        },
+        {
+            "name": "Amutui Quimey Reservoir",
+            "country": "Argentina",
+            "lake_surface_area": 87.0,
+            "lake_mean_depth": 64.7,
+            "lake_volume": 8.37
+        },
+        {
+            "name": "Lake Annecy",
+            "country": "France",
+            "lake_surface_area": 27.0,
+            "lake_mean_depth": 41.5,
+            "lake_volume": 1.12
+        },
+        {
+            "name": "Apache Lake",
+            "country": "USA",
+            "lake_surface_area": 11.0,
+            "lake_mean_depth": null,
+            "lake_volume": 0.3
+        },
+        {
+            "name": "Aral Sea",
+            "country": "Kazakhstan, Uzbekistan",
+            "lake_surface_area": 64500.0,
+            "lake_mean_depth": 16.0,
+            "lake_volume": 625.0
+        },
+        {
+            "name": "Lake Arendsee",
+            "country": "Germany",
+            "lake_surface_area": 5.0,
+            "lake_mean_depth": 28.6,
+            "lake_volume": 0.14
+        },
+        {
+            "name": "Lake Argentino",
+            "country": "Argentina",
+            "lake_surface_area": 1466.0,
+            "lake_mean_depth": 150.0,
+            "lake_volume": 219.9
+        },
+        {
+            "name": "Arroyito Reservoir",
+            "country": "Argentina",
+            "lake_surface_area": 39.0,
+            "lake_mean_depth": 7.7,
+            "lake_volume": 0.3
+        },
+        {
+            "name": "Asejire Reservoir",
+            "country": "Nigeria",
+            "lake_surface_area": 15.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Athabasca",
+            "country": "Canada",
+            "lake_surface_area": 7900.0,
+            "lake_mean_depth": 26.0,
+            "lake_volume": 204.0
+        },
+        {
+            "name": "Atlin Lake",
+            "country": "Canada",
+            "lake_surface_area": 589.0,
+            "lake_mean_depth": 86.0,
+            "lake_volume": 54.0
+        },
+        {
+            "name": "Attersee",
+            "country": "Austria",
+            "lake_surface_area": 46.0,
+            "lake_mean_depth": 84.2,
+            "lake_volume": 3.94
+        },
+        {
+            "name": "Lake Austin",
+            "country": "Australia",
+            "lake_surface_area": 829.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Awassa",
+            "country": "Ethiopia",
+            "lake_surface_area": 129.0,
+            "lake_mean_depth": 11.0,
+            "lake_volume": 1.3
+        },
+        {
+            "name": "Loch Awe",
+            "country": "UK",
+            "lake_surface_area": 39.0,
+            "lake_mean_depth": 32.0,
+            "lake_volume": 1.2
+        },
+        {
+            "name": "Lake Aydarkul",
+            "country": "Kazakhstan, Uzbekistan",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Ba Be",
+            "country": "Viet Nam",
+            "lake_surface_area": 5.0,
+            "lake_mean_depth": 18.0,
+            "lake_volume": 0.09
+        },
+        {
+            "name": "Lake Baikal",
+            "country": "Russia",
+            "lake_surface_area": 31500.0,
+            "lake_mean_depth": 740.0,
+            "lake_volume": 23000.0
+        },
+        {
+            "name": "Lake Baikal",
+            "country": "Russia",
+            "lake_surface_area": 31500.0,
+            "lake_mean_depth": 740.0,
+            "lake_volume": 23000.0
+        },
+        {
+            "name": "Baker Lake",
+            "country": "Canada",
+            "lake_surface_area": 1780.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Balaton",
+            "country": "Hungary",
+            "lake_surface_area": 593.0,
+            "lake_mean_depth": 3.25,
+            "lake_volume": 1.9
+        },
+        {
+            "name": "Balbina Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 2360.0,
+            "lake_mean_depth": 7.4,
+            "lake_volume": 17.53
+        },
+        {
+            "name": "Lake Balkhash",
+            "country": "Kazakhstan",
+            "lake_surface_area": 18200.0,
+            "lake_mean_depth": 5.8,
+            "lake_volume": 106.0
+        },
+        {
+            "name": "Lake Balta Alba",
+            "country": "Romania",
+            "lake_surface_area": 11.0,
+            "lake_mean_depth": 1.1,
+            "lake_volume": 0.01
+        },
+        {
+            "name": "Lake Bangweulu",
+            "country": "Zambia",
+            "lake_surface_area": 1510.0,
+            "lake_mean_depth": 4.0,
+            "lake_volume": 5.0
+        },
+        {
+            "name": "Lake Banyoles",
+            "country": "Spain",
+            "lake_surface_area": 1.0,
+            "lake_mean_depth": 14.8,
+            "lake_volume": 0.01
+        },
+        {
+            "name": "Baptiste Lake",
+            "country": "Canada",
+            "lake_surface_area": 10.0,
+            "lake_mean_depth": 8.62,
+            "lake_volume": 0.08
+        },
+        {
+            "name": "Bargi Dam Reservoir",
+            "country": "India",
+            "lake_surface_area": 268.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Baringo",
+            "country": "Kenya",
+            "lake_surface_area": 100.0,
+            "lake_mean_depth": 2.5,
+            "lake_volume": null
+        },
+        {
+            "name": "Bariri Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 63.0,
+            "lake_mean_depth": null,
+            "lake_volume": 0.5
+        },
+        {
+            "name": "Barra Bonita Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 310.0,
+            "lake_mean_depth": null,
+            "lake_volume": 2.6
+        },
+        {
+            "name": "Bartlett Lake",
+            "country": "USA",
+            "lake_surface_area": 11.0,
+            "lake_mean_depth": null,
+            "lake_volume": 0.22
+        },
+        {
+            "name": "Bas d'Or Lake",
+            "country": "Canada",
+            "lake_surface_area": 1099.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Bassenthwaite",
+            "country": "UK",
+            "lake_surface_area": 5.0,
+            "lake_mean_depth": 5.3,
+            "lake_volume": 0.02
+        },
+        {
+            "name": "Lake Bato",
+            "country": "Philippines",
+            "lake_surface_area": 35.0,
+            "lake_mean_depth": 3.0,
+            "lake_volume": 0.21
+        },
+        {
+            "name": "Lake Batur",
+            "country": "Indonesia",
+            "lake_surface_area": 16.0,
+            "lake_mean_depth": null,
+            "lake_volume": 0.815
+        },
+        {
+            "name": "Bayano Lake",
+            "country": "Panama",
+            "lake_surface_area": 353.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Bear Lake",
+            "country": "USA",
+            "lake_surface_area": 282.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Becharof Lake",
+            "country": "USA",
+            "lake_surface_area": 1190.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Bedok Reservoir",
+            "country": "Singapore",
+            "lake_surface_area": 1.0,
+            "lake_mean_depth": 9.0,
+            "lake_volume": 0.01
+        },
+        {
+            "name": "Lough Beg",
+            "country": "UK",
+            "lake_surface_area": null,
+            "lake_mean_depth": 1.5,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Beira",
+            "country": "Sri Lanka",
+            "lake_surface_area": 1.0,
+            "lake_mean_depth": 2.0,
+            "lake_volume": 0.0012875
+        },
+        {
+            "name": "Bergumermeer",
+            "country": "Netherlands",
+            "lake_surface_area": 5.0,
+            "lake_mean_depth": 1.3,
+            "lake_volume": 0.006
+        },
+        {
+            "name": "Lake Beysehir",
+            "country": "Turkey",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Bhojtal",
+            "country": "India",
+            "lake_surface_area": 31.0,
+            "lake_mean_depth": 6.0,
+            "lake_volume": 0.1
+        },
+        {
+            "name": "Bhojtal",
+            "country": "India",
+            "lake_surface_area": 31.0,
+            "lake_mean_depth": 6.0,
+            "lake_volume": 0.1
+        },
+        {
+            "name": "Lake Bienville",
+            "country": "Canada",
+            "lake_surface_area": 1045.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Billings Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 127.0,
+            "lake_mean_depth": 10.0,
+            "lake_volume": 1.2
+        },
+        {
+            "name": "Billy Chinook Lake",
+            "country": "USA",
+            "lake_surface_area": 16.0,
+            "lake_mean_depth": 31.1,
+            "lake_volume": 0.49
+        },
+        {
+            "name": "Bisalpur Reservoir",
+            "country": "India",
+            "lake_surface_area": 218.0,
+            "lake_mean_depth": null,
+            "lake_volume": 1.0
+        },
+        {
+            "name": "Bishazari Lake",
+            "country": "Nepal",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Biwa",
+            "country": "Japan",
+            "lake_surface_area": 674.0,
+            "lake_mean_depth": 41.0,
+            "lake_volume": 27.5
+        },
+        {
+            "name": "Lake Bled",
+            "country": "Slovenia",
+            "lake_surface_area": 1.0,
+            "lake_mean_depth": 17.9,
+            "lake_volume": 0.02
+        },
+        {
+            "name": "Lake Bogoria",
+            "country": "Kenya",
+            "lake_surface_area": 34.0,
+            "lake_mean_depth": 5.4,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Boon Tsagaan",
+            "country": "Mongolia",
+            "lake_surface_area": 280.0,
+            "lake_mean_depth": 4.0,
+            "lake_volume": null
+        },
+        {
+            "name": "Boraped Reservoir",
+            "country": "Thailand",
+            "lake_surface_area": 106.0,
+            "lake_mean_depth": 2.0,
+            "lake_volume": 0.27
+        },
+        {
+            "name": "Boraped Reservoir",
+            "country": "Thailand",
+            "lake_surface_area": 106.0,
+            "lake_mean_depth": 2.0,
+            "lake_volume": 0.27
+        },
+        {
+            "name": "Lake Bositeng",
+            "country": "China",
+            "lake_surface_area": 1010.0,
+            "lake_mean_depth": 7.66,
+            "lake_volume": 7.74
+        },
+        {
+            "name": "Bratskoye Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 5478.0,
+            "lake_mean_depth": 31.1,
+            "lake_volume": 169.3
+        },
+        {
+            "name": "Broa Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 7.0,
+            "lake_mean_depth": 3.0,
+            "lake_volume": 0.02
+        },
+        {
+            "name": "Broa Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 7.0,
+            "lake_mean_depth": 3.0,
+            "lake_volume": 0.02
+        },
+        {
+            "name": "Buffalo Pound Lake",
+            "country": "Canada",
+            "lake_surface_area": 30.0,
+            "lake_mean_depth": 3.0,
+            "lake_volume": 0.08
+        },
+        {
+            "name": "Lake Buhi",
+            "country": "Philippines",
+            "lake_surface_area": 17.0,
+            "lake_mean_depth": 6.8,
+            "lake_volume": 0.11
+        },
+        {
+            "name": "Lake Burera",
+            "country": "Rwanda",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Burley Griffin",
+            "country": "Australia",
+            "lake_surface_area": 7.0,
+            "lake_mean_depth": 4.7,
+            "lake_volume": 0.03
+        },
+        {
+            "name": "Buttle Lake",
+            "country": "Canada",
+            "lake_surface_area": 35.0,
+            "lake_mean_depth": 48.8,
+            "lake_volume": 1.72
+        },
+        {
+            "name": "Lake Buyr",
+            "country": "China, Mongolia",
+            "lake_surface_area": 610.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Cahora Bassa",
+            "country": "Mozambique",
+            "lake_surface_area": 2739.0,
+            "lake_mean_depth": 20.9,
+            "lake_volume": 55.8
+        },
+        {
+            "name": "Canandaigua Lake",
+            "country": "USA",
+            "lake_surface_area": 42.0,
+            "lake_mean_depth": 38.8,
+            "lake_volume": 1.64
+        },
+        {
+            "name": "Caniapiscau Reservoir",
+            "country": "Canada",
+            "lake_surface_area": 2893.0,
+            "lake_mean_depth": 11.84,
+            "lake_volume": 34.25
+        },
+        {
+            "name": "Canyon Lake",
+            "country": "USA",
+            "lake_surface_area": 4.0,
+            "lake_mean_depth": null,
+            "lake_volume": 0.07
+        },
+        {
+            "name": "Capivara Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 515.0,
+            "lake_mean_depth": null,
+            "lake_volume": 10.5
+        },
+        {
+            "name": "Caratasca Lagoon",
+            "country": "Honduras",
+            "lake_surface_area": 1110.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Cardiel",
+            "country": "Argentina",
+            "lake_surface_area": 460.0,
+            "lake_mean_depth": 49.1,
+            "lake_volume": 22.6
+        },
+        {
+            "name": "Casa de Piedra Reservoir",
+            "country": "Argentina",
+            "lake_surface_area": 360.0,
+            "lake_mean_depth": 11.1,
+            "lake_volume": 4.0
+        },
+        {
+            "name": "Caspian Sea",
+            "country": "Azerbaidjan, Iran, Kazakhstan, Russia, Turkmenistan",
+            "lake_surface_area": 374000.0,
+            "lake_mean_depth": 182.0,
+            "lake_volume": 78200.0
+        },
+        {
+            "name": "Cayuga Lake",
+            "country": "USA",
+            "lake_surface_area": 172.0,
+            "lake_mean_depth": 54.5,
+            "lake_volume": 9.4
+        },
+        {
+            "name": "Cedar Lake",
+            "country": "Canada",
+            "lake_surface_area": 1320.0,
+            "lake_mean_depth": 4.18,
+            "lake_volume": 10.2
+        },
+        {
+            "name": "Lake Chad",
+            "country": "Cameroon, Niger, Nigeria, Chad",
+            "lake_surface_area": 1540.0,
+            "lake_mean_depth": 4.11,
+            "lake_volume": 6.3
+        },
+        {
+            "name": "Lake Chamo",
+            "country": "Ethiopia",
+            "lake_surface_area": 551.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Champlain",
+            "country": "Canada, USA",
+            "lake_surface_area": 1130.0,
+            "lake_mean_depth": 22.8,
+            "lake_volume": 25.8
+        },
+        {
+            "name": "Lake Changshou",
+            "country": "China",
+            "lake_surface_area": 60.0,
+            "lake_mean_depth": null,
+            "lake_volume": 0.74
+        },
+        {
+            "name": "Lake Chany",
+            "country": "Russia",
+            "lake_surface_area": 2010.0,
+            "lake_mean_depth": 2.2,
+            "lake_volume": 4.33
+        },
+        {
+            "name": "Lake Chao",
+            "country": "China",
+            "lake_surface_area": 756.0,
+            "lake_mean_depth": null,
+            "lake_volume": 1.7
+        },
+        {
+            "name": "Lake Chapala",
+            "country": "Mexico",
+            "lake_surface_area": 1112.0,
+            "lake_mean_depth": 7.2,
+            "lake_volume": 7.9
+        },
+        {
+            "name": "Lake Charzykowskie",
+            "country": "Poland",
+            "lake_surface_area": 14.0,
+            "lake_mean_depth": 9.8,
+            "lake_volume": 0.13
+        },
+        {
+            "name": "Lake Chascomus",
+            "country": "Argentina",
+            "lake_surface_area": 29.0,
+            "lake_mean_depth": 1.5,
+            "lake_volume": 0.04
+        },
+        {
+            "name": "Cheboksary Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 1009.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Chenghai Sea",
+            "country": "China",
+            "lake_surface_area": 777.0,
+            "lake_mean_depth": 26.0,
+            "lake_volume": 1.9
+        },
+        {
+            "name": "Lake Chervonoje",
+            "country": "Belarus",
+            "lake_surface_area": 40.0,
+            "lake_mean_depth": 1.2,
+            "lake_volume": 0.04
+        },
+        {
+            "name": "Lake Chicot",
+            "country": "USA",
+            "lake_surface_area": 17.0,
+            "lake_mean_depth": 3.63,
+            "lake_volume": 0.06
+        },
+        {
+            "name": "Lake Chilika",
+            "country": "India",
+            "lake_surface_area": 900.0,
+            "lake_mean_depth": 1.35,
+            "lake_volume": 4.0
+        },
+        {
+            "name": "Lake Chilwa",
+            "country": "Malawi, Mozambique",
+            "lake_surface_area": 1750.0,
+            "lake_mean_depth": 1.0,
+            "lake_volume": 1.8
+        },
+        {
+            "name": "Lake Chini",
+            "country": "Malaysia",
+            "lake_surface_area": 50.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Chiriqui Lagoon",
+            "country": "Panama",
+            "lake_surface_area": 900.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Chivero",
+            "country": "Zimbabwe",
+            "lake_surface_area": 26.0,
+            "lake_mean_depth": 9.4,
+            "lake_volume": 0.25
+        },
+        {
+            "name": "Lake Chivero",
+            "country": "Zimbabwe",
+            "lake_surface_area": 26.0,
+            "lake_mean_depth": 9.4,
+            "lake_volume": 0.25
+        },
+        {
+            "name": "Lake Chuzenji",
+            "country": "Japan",
+            "lake_surface_area": 12.0,
+            "lake_mean_depth": 94.6,
+            "lake_volume": 1.2
+        },
+        {
+            "name": "Lake Claire",
+            "country": "Canada",
+            "lake_surface_area": 1410.0,
+            "lake_mean_depth": 1.2,
+            "lake_volume": 1.7
+        },
+        {
+            "name": "Lake Clark",
+            "country": "USA",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Clearwater Lakes",
+            "country": "Canada",
+            "lake_surface_area": 1250.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Cochico",
+            "country": "Argentina",
+            "lake_surface_area": 67.0,
+            "lake_mean_depth": 5.1,
+            "lake_volume": 0.34
+        },
+        {
+            "name": "Lake Cocibolca (Nicaragua)",
+            "country": "Nicaragua",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Cocibolca (Nicaragua)",
+            "country": "Nicaragua",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Colhue Huapi",
+            "country": "Argentina",
+            "lake_surface_area": 810.0,
+            "lake_mean_depth": 2.0,
+            "lake_volume": 1.62
+        },
+        {
+            "name": "Colorado Lagoon",
+            "country": "Bolivia",
+            "lake_surface_area": 52.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Como",
+            "country": "Italy",
+            "lake_surface_area": 146.0,
+            "lake_mean_depth": 153.0,
+            "lake_volume": 22.5
+        },
+        {
+            "name": "Conesus Lake",
+            "country": "USA",
+            "lake_surface_area": 13.0,
+            "lake_mean_depth": 11.5,
+            "lake_volume": 0.15
+        },
+        {
+            "name": "Coniston",
+            "country": "UK",
+            "lake_surface_area": 5.0,
+            "lake_mean_depth": 24.1,
+            "lake_volume": 0.11
+        },
+        {
+            "name": "Lake Constance",
+            "country": "Austria, Switzerland, Germany",
+            "lake_surface_area": 539.0,
+            "lake_mean_depth": 90.03,
+            "lake_volume": 48.53
+        },
+        {
+            "name": "Lake Constance",
+            "country": "Austria, Switzerland, Germany",
+            "lake_surface_area": 539.0,
+            "lake_mean_depth": 90.03,
+            "lake_volume": 48.53
+        },
+        {
+            "name": "Crane Prairie Reservoir",
+            "country": "USA",
+            "lake_surface_area": 17.0,
+            "lake_mean_depth": 3.3,
+            "lake_volume": 0.05
+        },
+        {
+            "name": "Crater Lake",
+            "country": "USA",
+            "lake_surface_area": 53.0,
+            "lake_mean_depth": 328.6,
+            "lake_volume": 17.46
+        },
+        {
+            "name": "Cree Lake",
+            "country": "Canada",
+            "lake_surface_area": 1152.0,
+            "lake_mean_depth": 14.9,
+            "lake_volume": 17.6
+        },
+        {
+            "name": "Crescent Lake",
+            "country": "USA",
+            "lake_surface_area": 18.0,
+            "lake_mean_depth": 37.8,
+            "lake_volume": 0.69
+        },
+        {
+            "name": "Crummock",
+            "country": "UK",
+            "lake_surface_area": 3.0,
+            "lake_mean_depth": 26.7,
+            "lake_volume": 0.06
+        },
+        {
+            "name": "Lake Cyambwe",
+            "country": "Rwanda",
+            "lake_surface_area": 22.6,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Cyohoha Sud",
+            "country": "Burundi, Rwanda",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Dal Lake",
+            "country": "India",
+            "lake_surface_area": 21.0,
+            "lake_mean_depth": null,
+            "lake_volume": 0.00983
+        },
+        {
+            "name": "Darbandikhan Lake",
+            "country": "Iraq",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Dargin",
+            "country": "Poland",
+            "lake_surface_area": 30.0,
+            "lake_mean_depth": 11.0,
+            "lake_volume": 0.32
+        },
+        {
+            "name": "Dauphin Lake",
+            "country": "Canada",
+            "lake_surface_area": 521.0,
+            "lake_mean_depth": 2.4,
+            "lake_volume": 1.29
+        },
+        {
+            "name": "Dead Sea",
+            "country": "Israel, Jordan",
+            "lake_surface_area": 810.0,
+            "lake_mean_depth": 120.0,
+            "lake_volume": 147.0
+        },
+        {
+            "name": "Demirkopru Dam Reservoir",
+            "country": "Turkey",
+            "lake_surface_area": 56.0,
+            "lake_mean_depth": null,
+            "lake_volume": 1.6
+        },
+        {
+            "name": "Lake Derg",
+            "country": "Ireland",
+            "lake_surface_area": 118.0,
+            "lake_mean_depth": 7.6,
+            "lake_volume": 0.88
+        },
+        {
+            "name": "Derwentwater",
+            "country": "UK",
+            "lake_surface_area": 5.0,
+            "lake_mean_depth": 5.5,
+            "lake_volume": 0.02
+        },
+        {
+            "name": "Detroit Lake",
+            "country": "USA",
+            "lake_surface_area": 15.0,
+            "lake_mean_depth": 36.9,
+            "lake_volume": 0.56
+        },
+        {
+            "name": "Diamante Lagoon",
+            "country": "Argentina",
+            "lake_surface_area": 14.0,
+            "lake_mean_depth": 38.6,
+            "lake_volume": 0.51
+        },
+        {
+            "name": "Diamond Lake",
+            "country": "USA",
+            "lake_surface_area": 13.0,
+            "lake_mean_depth": 7.3,
+            "lake_volume": 0.09
+        },
+        {
+            "name": "Dianchi",
+            "country": "China",
+            "lake_surface_area": 298.0,
+            "lake_mean_depth": 4.4,
+            "lake_volume": 1.56
+        },
+        {
+            "name": "Lake Diefenbaker",
+            "country": "Canada",
+            "lake_surface_area": 430.0,
+            "lake_mean_depth": 21.6,
+            "lake_volume": 9.4
+        },
+        {
+            "name": "Lake Dillon",
+            "country": "USA",
+            "lake_surface_area": 13.0,
+            "lake_mean_depth": 24.1,
+            "lake_volume": 0.32
+        },
+        {
+            "name": "Dneprodzerzhinskoye Reservoir",
+            "country": "Ukraine",
+            "lake_surface_area": 567.0,
+            "lake_mean_depth": 4.3,
+            "lake_volume": 2.46
+        },
+        {
+            "name": "Dobskie",
+            "country": "Poland",
+            "lake_surface_area": 18.0,
+            "lake_mean_depth": 8.0,
+            "lake_volume": 0.14
+        },
+        {
+            "name": "Donghu",
+            "country": "China",
+            "lake_surface_area": 28.0,
+            "lake_mean_depth": 2.2,
+            "lake_volume": 0.06
+        },
+        {
+            "name": "Lake Dongting",
+            "country": "China",
+            "lake_surface_area": 2740.0,
+            "lake_mean_depth": 6.7,
+            "lake_volume": 17.8
+        },
+        {
+            "name": "Dore Lake",
+            "country": "Canada",
+            "lake_surface_area": 616.0,
+            "lake_mean_depth": 10.9,
+            "lake_volume": 6.68
+        },
+        {
+            "name": "Lake Driyviaty",
+            "country": "Belarus",
+            "lake_surface_area": 36.0,
+            "lake_mean_depth": 6.1,
+            "lake_volume": 0.22
+        },
+        {
+            "name": "Lake Druksiai",
+            "country": "Belarus, Lithuania",
+            "lake_surface_area": 49.0,
+            "lake_mean_depth": 7.6,
+            "lake_volume": 0.37
+        },
+        {
+            "name": "Dubawnt Lake",
+            "country": "Canada",
+            "lake_surface_area": 3630.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Dusia",
+            "country": "Lithuania",
+            "lake_surface_area": 23.0,
+            "lake_mean_depth": 14.6,
+            "lake_volume": 0.34
+        },
+        {
+            "name": "Lake Ebinur",
+            "country": "China",
+            "lake_surface_area": 522.0,
+            "lake_mean_depth": 15.0,
+            "lake_volume": 7.14
+        },
+        {
+            "name": "Lake Edward",
+            "country": "Congo  ( Dem. Rep. ), Uganda",
+            "lake_surface_area": 2325.0,
+            "lake_mean_depth": 17.0,
+            "lake_volume": 39.52
+        },
+        {
+            "name": "Eemmeer",
+            "country": "Netherlands",
+            "lake_surface_area": 13.4,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Egridir",
+            "country": "Turkey",
+            "lake_surface_area": 590.0,
+            "lake_mean_depth": 9.0,
+            "lake_volume": 4.38
+        },
+        {
+            "name": "Lake Elmenteita",
+            "country": "Kenya",
+            "lake_surface_area": 20.0,
+            "lake_mean_depth": 0.9,
+            "lake_volume": null
+        },
+        {
+            "name": "Ennerdale",
+            "country": "UK",
+            "lake_surface_area": 3.0,
+            "lake_mean_depth": 17.8,
+            "lake_volume": 0.05
+        },
+        {
+            "name": "Lake Enriquillo",
+            "country": "Dominican",
+            "lake_surface_area": 500.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Epecuen",
+            "country": "Argentina",
+            "lake_surface_area": 160.0,
+            "lake_mean_depth": 7.0,
+            "lake_volume": 1.12
+        },
+        {
+            "name": "Erhai Lake",
+            "country": "China",
+            "lake_surface_area": 250.0,
+            "lake_mean_depth": null,
+            "lake_volume": 2.5
+        },
+        {
+            "name": "Lake Erie",
+            "country": "Canada, USA",
+            "lake_surface_area": 25821.0,
+            "lake_mean_depth": 17.7,
+            "lake_volume": 458.0
+        },
+        {
+            "name": "Eskimo Lakes",
+            "country": "Canada",
+            "lake_surface_area": 880.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Evoron",
+            "country": "Russia",
+            "lake_surface_area": 590.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Eyre",
+            "country": "Australia",
+            "lake_surface_area": 9690.0,
+            "lake_mean_depth": 3.1,
+            "lake_volume": 30.1
+        },
+        {
+            "name": "Ezequiel Ramos Mexia Reservoir",
+            "country": "Argentina",
+            "lake_surface_area": 816.0,
+            "lake_mean_depth": 24.7,
+            "lake_volume": 20.2
+        },
+        {
+            "name": "Lake Fagnano",
+            "country": "Argentina",
+            "lake_surface_area": 500.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Faguibine",
+            "country": "Mali",
+            "lake_surface_area": 590.0,
+            "lake_mean_depth": null,
+            "lake_volume": 4.0
+        },
+        {
+            "name": "Falcon International Reservoir",
+            "country": "Mexico, USA",
+            "lake_surface_area": 350.0,
+            "lake_mean_depth": null,
+            "lake_volume": 3.26
+        },
+        {
+            "name": "Lake Fateh Sagar",
+            "country": "India",
+            "lake_surface_area": 4.0,
+            "lake_mean_depth": 5.4,
+            "lake_volume": 0.01
+        },
+        {
+            "name": "Fern Ridge Lake",
+            "country": "USA",
+            "lake_surface_area": 38.0,
+            "lake_mean_depth": 3.2,
+            "lake_volume": 0.12
+        },
+        {
+            "name": "Fierza Reservoir",
+            "country": "",
+            "lake_surface_area": 73.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Flathead Lake",
+            "country": "USA",
+            "lake_surface_area": 496.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Fontana",
+            "country": "Argentina",
+            "lake_surface_area": 82.0,
+            "lake_mean_depth": 79.0,
+            "lake_volume": 6.43
+        },
+        {
+            "name": "Lake Frome",
+            "country": "Australia",
+            "lake_surface_area": 2596.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Fuxian Lake",
+            "country": "China",
+            "lake_surface_area": 212.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Futalaufquen",
+            "country": "Argentina",
+            "lake_surface_area": 45.0,
+            "lake_mean_depth": 101.0,
+            "lake_volume": 4.51
+        },
+        {
+            "name": "Lake G. Dimitrov",
+            "country": "Bulgaria, Latvia",
+            "lake_surface_area": 11.0,
+            "lake_mean_depth": 12.7,
+            "lake_volume": 0.14
+        },
+        {
+            "name": "Lake Gairdner",
+            "country": "Australia",
+            "lake_surface_area": 4470.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Galstas",
+            "country": "Lithuania",
+            "lake_surface_area": 4.0,
+            "lake_mean_depth": 14.4,
+            "lake_volume": 0.05
+        },
+        {
+            "name": "Gandhi Sagar Reservoir",
+            "country": "India",
+            "lake_surface_area": 723.0,
+            "lake_mean_depth": null,
+            "lake_volume": 7.0
+        },
+        {
+            "name": "Lake Garda",
+            "country": "Italy",
+            "lake_surface_area": 370.0,
+            "lake_mean_depth": 136.0,
+            "lake_volume": 49.0
+        },
+        {
+            "name": "Garrow Lake",
+            "country": "Canada",
+            "lake_surface_area": 4.0,
+            "lake_mean_depth": 24.5,
+            "lake_volume": 0.1
+        },
+        {
+            "name": "Gatun Lake",
+            "country": "Panama",
+            "lake_surface_area": 431.0,
+            "lake_mean_depth": 12.7,
+            "lake_volume": 5.48
+        },
+        {
+            "name": "Lake General Carrera",
+            "country": "Argentina, Chile",
+            "lake_surface_area": 1850.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake George",
+            "country": "Uganda",
+            "lake_surface_area": 250.0,
+            "lake_mean_depth": 2.4,
+            "lake_volume": 0.8
+        },
+        {
+            "name": "Gitaru Reservoir",
+            "country": "Kenya",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Gods Lake",
+            "country": "Canada",
+            "lake_surface_area": 1060.0,
+            "lake_mean_depth": 13.2,
+            "lake_volume": 13.8
+        },
+        {
+            "name": "Gooimeer",
+            "country": "Netherlands",
+            "lake_surface_area": 30.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Goose Lake",
+            "country": "USA",
+            "lake_surface_area": 503.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Gorkovskoye Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 1590.0,
+            "lake_mean_depth": 5.5,
+            "lake_volume": 8.82
+        },
+        {
+            "name": "Gouin",
+            "country": "Canada",
+            "lake_surface_area": 1302.0,
+            "lake_mean_depth": 69.14,
+            "lake_volume": 85.73
+        },
+        {
+            "name": "Lake Granby",
+            "country": "USA",
+            "lake_surface_area": 30.0,
+            "lake_mean_depth": 23.0,
+            "lake_volume": 0.68
+        },
+        {
+            "name": "Great Bear Lake",
+            "country": "Canada",
+            "lake_surface_area": 31153.0,
+            "lake_mean_depth": 71.7,
+            "lake_volume": 2236.0
+        },
+        {
+            "name": "Great Central Lake",
+            "country": "Canada",
+            "lake_surface_area": 51.0,
+            "lake_mean_depth": 124.0,
+            "lake_volume": 6.32
+        },
+        {
+            "name": "Great Salt Lake",
+            "country": "USA",
+            "lake_surface_area": 5000.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Great Slave Lake",
+            "country": "Canada",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Green Mountain Reservoir",
+            "country": "USA",
+            "lake_surface_area": 9.0,
+            "lake_mean_depth": 23.0,
+            "lake_volume": null
+        },
+        {
+            "name": "Grevelingenmeer",
+            "country": "Netherlands",
+            "lake_surface_area": 110.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Guiers",
+            "country": "Senegal",
+            "lake_surface_area": 228.0,
+            "lake_mean_depth": 1.3,
+            "lake_volume": 0.41
+        },
+        {
+            "name": "Guri Reservoir",
+            "country": "Venezuela",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Hachiro",
+            "country": "Japan",
+            "lake_surface_area": 46.0,
+            "lake_mean_depth": 4.0,
+            "lake_volume": 0.14
+        },
+        {
+            "name": "Lake Hachiro",
+            "country": "Japan",
+            "lake_surface_area": 46.0,
+            "lake_mean_depth": 4.0,
+            "lake_volume": 0.14
+        },
+        {
+            "name": "Lake Hago",
+            "country": "Rwanda",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Hamana",
+            "country": "Japan",
+            "lake_surface_area": 69.0,
+            "lake_mean_depth": 5.0,
+            "lake_volume": 0.33
+        },
+        {
+            "name": "Lake Hammer",
+            "country": "Iraq",
+            "lake_surface_area": 1940.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Hancza",
+            "country": "Poland",
+            "lake_surface_area": 3.0,
+            "lake_mean_depth": 39.0,
+            "lake_volume": 0.12
+        },
+        {
+            "name": "Lake Har",
+            "country": "Mongolia",
+            "lake_surface_area": 530.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Har Us",
+            "country": "Mongolia",
+            "lake_surface_area": 1760.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Hartbeespoort Dam Reservoir",
+            "country": "South Africa",
+            "lake_surface_area": 20.0,
+            "lake_mean_depth": 9.6,
+            "lake_volume": null
+        },
+        {
+            "name": "Harveys Lake",
+            "country": "USA",
+            "lake_surface_area": 3.0,
+            "lake_mean_depth": 11.0,
+            "lake_volume": 0.02
+        },
+        {
+            "name": "Haweswater",
+            "country": "UK",
+            "lake_surface_area": 4.0,
+            "lake_mean_depth": 23.4,
+            "lake_volume": 0.07
+        },
+        {
+            "name": "Hazen Lake",
+            "country": "Canada",
+            "lake_surface_area": 542.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Helmand",
+            "country": "Afghanistan, Iran",
+            "lake_surface_area": 3000.0,
+            "lake_mean_depth": null,
+            "lake_volume": 510.0
+        },
+        {
+            "name": "Hemlock Lake",
+            "country": "USA",
+            "lake_surface_area": 7.0,
+            "lake_mean_depth": 13.6,
+            "lake_volume": 0.1
+        },
+        {
+            "name": "Hirakud Reservoir",
+            "country": "India",
+            "lake_surface_area": 743.0,
+            "lake_mean_depth": null,
+            "lake_volume": 5.8
+        },
+        {
+            "name": "Hirfanli Dam Reservoir",
+            "country": "Turkey",
+            "lake_surface_area": 272.0,
+            "lake_mean_depth": null,
+            "lake_volume": 6.0
+        },
+        {
+            "name": "Lake Hjalmaren",
+            "country": "Sweden",
+            "lake_surface_area": 478.0,
+            "lake_mean_depth": 6.1,
+            "lake_volume": 2.9
+        },
+        {
+            "name": "Honeoye Lake",
+            "country": "USA",
+            "lake_surface_area": 7.0,
+            "lake_mean_depth": 4.9,
+            "lake_volume": 0.03
+        },
+        {
+            "name": "Lake Hovsgol",
+            "country": "Mongolia",
+            "lake_surface_area": 2770.0,
+            "lake_mean_depth": 138.0,
+            "lake_volume": 381.0
+        },
+        {
+            "name": "Lake Hovsgol",
+            "country": "Mongolia",
+            "lake_surface_area": 2770.0,
+            "lake_mean_depth": 138.0,
+            "lake_volume": 381.0
+        },
+        {
+            "name": "Lake Huechulaufquen",
+            "country": "Argentina",
+            "lake_surface_area": 78.0,
+            "lake_mean_depth": 142.0,
+            "lake_volume": 11.1
+        },
+        {
+            "name": "Lake Hulun",
+            "country": "China",
+            "lake_surface_area": 1731.0,
+            "lake_mean_depth": 5.0,
+            "lake_volume": 13.13
+        },
+        {
+            "name": "Lake Hungtze",
+            "country": "China",
+            "lake_surface_area": 1960.0,
+            "lake_mean_depth": 1.4,
+            "lake_volume": 2.66
+        },
+        {
+            "name": "Lake Huron",
+            "country": "Canada, USA",
+            "lake_surface_area": 59570.0,
+            "lake_mean_depth": 53.0,
+            "lake_volume": 3535.0
+        },
+        {
+            "name": "Lake Hyargas",
+            "country": "Mongolia",
+            "lake_surface_area": 1407.0,
+            "lake_mean_depth": 20.0,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Hyargas",
+            "country": "Mongolia",
+            "lake_surface_area": 1407.0,
+            "lake_mean_depth": 20.0,
+            "lake_volume": null
+        },
+        {
+            "name": "Ibera Lake",
+            "country": "Argentina",
+            "lake_surface_area": 52.0,
+            "lake_mean_depth": 3.2,
+            "lake_volume": 0.16
+        },
+        {
+            "name": "Ibitinga Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 114.0,
+            "lake_mean_depth": null,
+            "lake_volume": 0.9
+        },
+        {
+            "name": "Lake Ihema",
+            "country": "Rwanda",
+            "lake_surface_area": 90.0,
+            "lake_mean_depth": 4.8,
+            "lake_volume": 0.51
+        },
+        {
+            "name": "IJsselmeer",
+            "country": "Netherlands",
+            "lake_surface_area": 1100.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Ikeda",
+            "country": "Japan",
+            "lake_surface_area": 11.0,
+            "lake_mean_depth": 135.0,
+            "lake_volume": 1.47
+        },
+        {
+            "name": "Ilha Solteira Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 1195.0,
+            "lake_mean_depth": null,
+            "lake_volume": 21.2
+        },
+        {
+            "name": "Iliamna Lake",
+            "country": "USA",
+            "lake_surface_area": 2590.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Ilmen",
+            "country": "Russia",
+            "lake_surface_area": 982.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Geranimovas-Ilzas",
+            "country": "Latvia",
+            "lake_surface_area": 3.0,
+            "lake_mean_depth": 9.8,
+            "lake_volume": 0.0321
+        },
+        {
+            "name": "Imandrovskoye Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 876.0,
+            "lake_mean_depth": 13.0,
+            "lake_volume": 11.2
+        },
+        {
+            "name": "Imandrovskoye Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 876.0,
+            "lake_mean_depth": 13.0,
+            "lake_volume": 11.2
+        },
+        {
+            "name": "Lake Inari",
+            "country": "Finland",
+            "lake_surface_area": 1050.0,
+            "lake_mean_depth": 14.4,
+            "lake_volume": 15.1
+        },
+        {
+            "name": "Lake Inawashiro",
+            "country": "Japan",
+            "lake_surface_area": 105.0,
+            "lake_mean_depth": 37.0,
+            "lake_volume": 3.86
+        },
+        {
+            "name": "Inba-numa",
+            "country": "Japan",
+            "lake_surface_area": 12.0,
+            "lake_mean_depth": 1.7,
+            "lake_volume": 0.02
+        },
+        {
+            "name": "Indawgyi Lake",
+            "country": "Myanmar",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Indir Sagar Reservoir",
+            "country": "India",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": 10.0
+        },
+        {
+            "name": "Inle Lake",
+            "country": "Myanmar",
+            "lake_surface_area": 116.0,
+            "lake_mean_depth": 2.1,
+            "lake_volume": null
+        },
+        {
+            "name": "Island Lake",
+            "country": "Canada",
+            "lake_surface_area": 1040.0,
+            "lake_mean_depth": 20.1,
+            "lake_volume": 21.8
+        },
+        {
+            "name": "Lake Issyk-Kool",
+            "country": "Kyrgyz",
+            "lake_surface_area": 6236.0,
+            "lake_mean_depth": 270.0,
+            "lake_volume": 1738.0
+        },
+        {
+            "name": "Lake Istada",
+            "country": "Afghanistan",
+            "lake_surface_area": 520.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Itaipu Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 1350.0,
+            "lake_mean_depth": null,
+            "lake_volume": 29.0
+        },
+        {
+            "name": "Ivankovo Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 327.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Izabal",
+            "country": "Guatemala",
+            "lake_surface_area": 590.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Jatiluhur",
+            "country": "Indonesia",
+            "lake_surface_area": 83.0,
+            "lake_mean_depth": null,
+            "lake_volume": 900.0
+        },
+        {
+            "name": "Lake Jerid",
+            "country": "Tunisia",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Jipe",
+            "country": "Kenya, Tanzania",
+            "lake_surface_area": 25.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Junin Lake",
+            "country": "Peru",
+            "lake_surface_area": 467.0,
+            "lake_mean_depth": 3.0,
+            "lake_volume": 1.08
+        },
+        {
+            "name": "Jupia Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 544.0,
+            "lake_mean_depth": null,
+            "lake_volume": 3.7
+        },
+        {
+            "name": "Jurumirin Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 546.0,
+            "lake_mean_depth": null,
+            "lake_volume": 6.5
+        },
+        {
+            "name": "Kairakkumskoye Reservoir",
+            "country": "Tajikistan",
+            "lake_surface_area": 513.0,
+            "lake_mean_depth": 6.2,
+            "lake_volume": 4.2
+        },
+        {
+            "name": "Kakhovskoye Reservoir",
+            "country": "Ukraine",
+            "lake_surface_area": 2150.0,
+            "lake_mean_depth": 8.5,
+            "lake_volume": 18.2
+        },
+        {
+            "name": "Kamafusa Reservoir",
+            "country": "Japan",
+            "lake_surface_area": 4.0,
+            "lake_mean_depth": 11.6,
+            "lake_volume": 0.04
+        },
+        {
+            "name": "Kamburu Reservoir",
+            "country": "Kenya",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Kamloops Lake",
+            "country": "Canada",
+            "lake_surface_area": 52.0,
+            "lake_mean_depth": 71.0,
+            "lake_volume": 3.7
+        },
+        {
+            "name": "Kamskoye Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 1910.0,
+            "lake_mean_depth": 6.4,
+            "lake_volume": 12.2
+        },
+        {
+            "name": "Kanevskoye Reservoir",
+            "country": "Ukraine",
+            "lake_surface_area": 675.0,
+            "lake_mean_depth": 3.9,
+            "lake_volume": 2.62
+        },
+        {
+            "name": "Kanhargaov Reservoir",
+            "country": "India",
+            "lake_surface_area": 6.0,
+            "lake_mean_depth": 4.6,
+            "lake_volume": 0.02
+        },
+        {
+            "name": "Lake Kaoyu",
+            "country": "China",
+            "lake_surface_area": 663.0,
+            "lake_mean_depth": 7.9,
+            "lake_volume": 5.9
+        },
+        {
+            "name": "Kaptchagayskoye Reservoir",
+            "country": "Kazakhstan",
+            "lake_surface_area": 1850.0,
+            "lake_mean_depth": 15.2,
+            "lake_volume": 28.1
+        },
+        {
+            "name": "Lake Kariba",
+            "country": "Zambia, Zimbabwe",
+            "lake_surface_area": 5400.0,
+            "lake_mean_depth": 31.0,
+            "lake_volume": 160.0
+        },
+        {
+            "name": "Kasba Lake",
+            "country": "Canada",
+            "lake_surface_area": 1320.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Kasumigaura",
+            "country": "Japan",
+            "lake_surface_area": 220.0,
+            "lake_mean_depth": 4.0,
+            "lake_volume": 0.84
+        },
+        {
+            "name": "Lake Kawaguchi",
+            "country": "Japan",
+            "lake_surface_area": 6.0,
+            "lake_mean_depth": 9.3,
+            "lake_volume": 0.05
+        },
+        {
+            "name": "Keban Dam Reservoir",
+            "country": "Turkey",
+            "lake_surface_area": 675.0,
+            "lake_mean_depth": null,
+            "lake_volume": 31.0
+        },
+        {
+            "name": "Kejimkujik Lake",
+            "country": "Canada",
+            "lake_surface_area": 26.0,
+            "lake_mean_depth": 4.4,
+            "lake_volume": 0.1
+        },
+        {
+            "name": "Kenyir Reservoir",
+            "country": "Malaysia",
+            "lake_surface_area": 369.0,
+            "lake_mean_depth": 37.0,
+            "lake_volume": 13.6
+        },
+        {
+            "name": "Ketelmeer",
+            "country": "Netherlands",
+            "lake_surface_area": 35.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Keuka Lake",
+            "country": "USA",
+            "lake_surface_area": 47.0,
+            "lake_mean_depth": 30.5,
+            "lake_volume": 1.43
+        },
+        {
+            "name": "Kezar Lake",
+            "country": "USA",
+            "lake_surface_area": 1.0,
+            "lake_mean_depth": 2.8,
+            "lake_volume": 0.002
+        },
+        {
+            "name": "Lake Khanka",
+            "country": "China, Russia",
+            "lake_surface_area": 4190.0,
+            "lake_mean_depth": 4.5,
+            "lake_volume": 18.3
+        },
+        {
+            "name": "Lake Khanka",
+            "country": "China, Russia",
+            "lake_surface_area": 4190.0,
+            "lake_mean_depth": 4.5,
+            "lake_volume": 18.3
+        },
+        {
+            "name": "Khantayskoye",
+            "country": "Russia",
+            "lake_surface_area": 822.0,
+            "lake_mean_depth": 73.0,
+            "lake_volume": null
+        },
+        {
+            "name": "Kievskoye Reservoir",
+            "country": "Ukraine",
+            "lake_surface_area": 922.0,
+            "lake_mean_depth": 4.0,
+            "lake_volume": 3.93
+        },
+        {
+            "name": "Kimbere Reservoir",
+            "country": "Kenya",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Kindaruma Reservoir",
+            "country": "Kenya",
+            "lake_surface_area": 10.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Kinneret",
+            "country": "Israel",
+            "lake_surface_area": 170.0,
+            "lake_mean_depth": 25.6,
+            "lake_volume": 4.0
+        },
+        {
+            "name": "Lake Kinneret",
+            "country": "Israel",
+            "lake_surface_area": 170.0,
+            "lake_mean_depth": 25.6,
+            "lake_volume": 4.0
+        },
+        {
+            "name": "Kisajno",
+            "country": "Poland",
+            "lake_surface_area": 19.0,
+            "lake_mean_depth": 8.0,
+            "lake_volume": 0.16
+        },
+        {
+            "name": "Lake Kivu",
+            "country": "Congo  ( Dem. Rep. ), Rwanda",
+            "lake_surface_area": 2220.0,
+            "lake_mean_depth": 240.0,
+            "lake_volume": 333.0
+        },
+        {
+            "name": "Lake Kivumba",
+            "country": "Rwanda",
+            "lake_surface_area": 11.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Kizaki",
+            "country": "Japan",
+            "lake_surface_area": 1.0,
+            "lake_mean_depth": 17.9,
+            "lake_volume": 0.02
+        },
+        {
+            "name": "Knyazhegubskoye Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 606.0,
+            "lake_mean_depth": null,
+            "lake_volume": 3.43
+        },
+        {
+            "name": "Knyazhegubskoye Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 606.0,
+            "lake_mean_depth": null,
+            "lake_volume": 3.43
+        },
+        {
+            "name": "Lake Kojima",
+            "country": "Japan",
+            "lake_surface_area": 11.0,
+            "lake_mean_depth": 1.6,
+            "lake_volume": 0.01
+        },
+        {
+            "name": "Lake Koka",
+            "country": "Ethiopia",
+            "lake_surface_area": 250.0,
+            "lake_mean_depth": 9.14,
+            "lake_volume": 2.28
+        },
+        {
+            "name": "Lake Kolleru",
+            "country": "India",
+            "lake_surface_area": 901.0,
+            "lake_mean_depth": 1.5,
+            "lake_volume": null
+        },
+        {
+            "name": "Kootenay Lake",
+            "country": "Canada",
+            "lake_surface_area": 389.0,
+            "lake_mean_depth": 94.0,
+            "lake_volume": 36.7
+        },
+        {
+            "name": "Krasnoyarskoye Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 2000.0,
+            "lake_mean_depth": 37.0,
+            "lake_volume": 73.3
+        },
+        {
+            "name": "Krementchugskoye Reservoir",
+            "country": "Ukraine",
+            "lake_surface_area": 2250.0,
+            "lake_mean_depth": 6.0,
+            "lake_volume": 13.5
+        },
+        {
+            "name": "Kulundinskoye",
+            "country": "Russia",
+            "lake_surface_area": 728.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Kurisches Bay",
+            "country": "Lithuania, Russia",
+            "lake_surface_area": 1620.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Kurunegala Reservoir",
+            "country": "Sri Lanka",
+            "lake_surface_area": null,
+            "lake_mean_depth": 6.0,
+            "lake_volume": null
+        },
+        {
+            "name": "Kuybyshev Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 5900.0,
+            "lake_mean_depth": 9.8,
+            "lake_volume": 58.0
+        },
+        {
+            "name": "Kuybyshev Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 5900.0,
+            "lake_mean_depth": 9.8,
+            "lake_volume": 58.0
+        },
+        {
+            "name": "Lake Kyaring",
+            "country": "China",
+            "lake_surface_area": 670.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Kyoga",
+            "country": "Uganda",
+            "lake_surface_area": 1720.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "La Grande 2 Reservoir",
+            "country": "Canada",
+            "lake_surface_area": 2486.0,
+            "lake_mean_depth": 21.8,
+            "lake_volume": 52.0
+        },
+        {
+            "name": "La Grande 3 Reservoir",
+            "country": "Canada",
+            "lake_surface_area": 2420.0,
+            "lake_mean_depth": 24.4,
+            "lake_volume": 60.02
+        },
+        {
+            "name": "La Grande 4 Reservoir",
+            "country": "Canada",
+            "lake_surface_area": 765.0,
+            "lake_mean_depth": 29.4,
+            "lake_volume": 22.0
+        },
+        {
+            "name": "Lake La Plata",
+            "country": "Argentina",
+            "lake_surface_area": 76.0,
+            "lake_mean_depth": 97.0,
+            "lake_volume": 7.37
+        },
+        {
+            "name": "Lake Lacar",
+            "country": "Argentina",
+            "lake_surface_area": 55.0,
+            "lake_mean_depth": 167.0,
+            "lake_volume": 9.2
+        },
+        {
+            "name": "Lake Ladoga",
+            "country": "Russia",
+            "lake_surface_area": 18135.0,
+            "lake_mean_depth": 51.0,
+            "lake_volume": 908.0
+        },
+        {
+            "name": "Laguna de Bay",
+            "country": "Philippines",
+            "lake_surface_area": 922.0,
+            "lake_mean_depth": 2.8,
+            "lake_volume": 3.2
+        },
+        {
+            "name": "Laguna de Bay",
+            "country": "Philippines",
+            "lake_surface_area": 922.0,
+            "lake_mean_depth": 2.8,
+            "lake_volume": 3.2
+        },
+        {
+            "name": "Lake Amboseli",
+            "country": "Kenya",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Arpi",
+            "country": "",
+            "lake_surface_area": 220.0,
+            "lake_mean_depth": 1.5,
+            "lake_volume": 0.1
+        },
+        {
+            "name": "Lake Benmore",
+            "country": "New Zealand",
+            "lake_surface_area": 75.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Bolsena",
+            "country": "Italy",
+            "lake_surface_area": 113.5,
+            "lake_mean_depth": 81.0,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Bracciano",
+            "country": "Italy",
+            "lake_surface_area": 56.7,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Burungi",
+            "country": "Tanzania",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Chala",
+            "country": "Kenya, Tanzania",
+            "lake_surface_area": 4.2,
+            "lake_mean_depth": 81.0,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Ellesmere",
+            "country": "New Zealand",
+            "lake_surface_area": 182.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Eyasi",
+            "country": "Tanzania",
+            "lake_surface_area": 1050.0,
+            "lake_mean_depth": 1.0,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Fitri",
+            "country": "Chad",
+            "lake_surface_area": 500.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Geneva",
+            "country": "Switzerland, France",
+            "lake_surface_area": 584.0,
+            "lake_mean_depth": 152.7,
+            "lake_volume": 88.9
+        },
+        {
+            "name": "Lake Geneva",
+            "country": "Switzerland, France",
+            "lake_surface_area": 584.0,
+            "lake_mean_depth": 152.7,
+            "lake_volume": 88.9
+        },
+        {
+            "name": "Lake Hawea",
+            "country": "New Zealand",
+            "lake_surface_area": 141.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Idro",
+            "country": "Italy",
+            "lake_surface_area": 11.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Iseo",
+            "country": "Italy",
+            "lake_surface_area": 65.3,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Lucerne",
+            "country": "Switzerland",
+            "lake_surface_area": 115.0,
+            "lake_mean_depth": 104.0,
+            "lake_volume": 11.8
+        },
+        {
+            "name": "Lake Magadi",
+            "country": "Kenya",
+            "lake_surface_area": 100.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Manapouri",
+            "country": "New Zealand",
+            "lake_surface_area": 143.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Manyame",
+            "country": "Zimbabwe",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Manyara",
+            "country": "Tanzania",
+            "lake_surface_area": 230.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Mead",
+            "country": "USA",
+            "lake_surface_area": 640.0,
+            "lake_mean_depth": null,
+            "lake_volume": 32.0
+        },
+        {
+            "name": "Lake Poso",
+            "country": "",
+            "lake_surface_area": 323.0,
+            "lake_mean_depth": null,
+            "lake_volume": 0.216
+        },
+        {
+            "name": "Lake Powell",
+            "country": "USA",
+            "lake_surface_area": 280.0,
+            "lake_mean_depth": 40.0,
+            "lake_volume": 14.0
+        },
+        {
+            "name": "Lake Pukaki",
+            "country": "New Zealand",
+            "lake_surface_area": 178.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Retba",
+            "country": "Senegal",
+            "lake_surface_area": 3.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Retba",
+            "country": "Senegal",
+            "lake_surface_area": 3.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Selingue",
+            "country": "Mali",
+            "lake_surface_area": 409.0,
+            "lake_mean_depth": 5.3,
+            "lake_volume": 2166.0
+        },
+        {
+            "name": "Lake Te Anau",
+            "country": "New Zealand",
+            "lake_surface_area": 344.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Tekapo",
+            "country": "New Zealand",
+            "lake_surface_area": 87.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Teli",
+            "country": "Chad",
+            "lake_surface_area": 4.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Towuti",
+            "country": "",
+            "lake_surface_area": 561.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Waikaremoana",
+            "country": "New Zealand",
+            "lake_surface_area": 54.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Wakatipu",
+            "country": "New Zealand",
+            "lake_surface_area": 289.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Wanaka",
+            "country": "New Zealand",
+            "lake_surface_area": 192.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Yoan",
+            "country": "Chad",
+            "lake_surface_area": 4.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lam Ta Khong Reservoir",
+            "country": "Thailand",
+            "lake_surface_area": 45.0,
+            "lake_mean_depth": null,
+            "lake_volume": 0.44
+        },
+        {
+            "name": "Lake Lanao",
+            "country": "Philippines",
+            "lake_surface_area": 375.0,
+            "lake_mean_depth": 60.3,
+            "lake_volume": null
+        },
+        {
+            "name": "Nationaal Park Lauwersmeer",
+            "country": "Netherlands",
+            "lake_surface_area": 58.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lesser Slave Lake",
+            "country": "Canada",
+            "lake_surface_area": 1170.0,
+            "lake_mean_depth": 11.7,
+            "lake_volume": 13.69
+        },
+        {
+            "name": "Loch Leven",
+            "country": "UK",
+            "lake_surface_area": 13.0,
+            "lake_mean_depth": 3.9,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Llanquihue",
+            "country": "Chile",
+            "lake_surface_area": 866.0,
+            "lake_mean_depth": 182.0,
+            "lake_volume": 158.6
+        },
+        {
+            "name": "Loktak Lake",
+            "country": "India",
+            "lake_surface_area": 289.0,
+            "lake_mean_depth": 2.07,
+            "lake_volume": 0.59
+        },
+        {
+            "name": "Loch Lomond",
+            "country": "UK",
+            "lake_surface_area": 71.0,
+            "lake_mean_depth": 37.0,
+            "lake_volume": 2.6
+        },
+        {
+            "name": "Lake Lop Nor",
+            "country": "China",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": 5.0
+        },
+        {
+            "name": "Los Barreales Reservoir",
+            "country": "Argentina",
+            "lake_surface_area": 413.0,
+            "lake_mean_depth": 67.0,
+            "lake_volume": 27.7
+        },
+        {
+            "name": "Lower Lake ( as part of Lake Bhopal)",
+            "country": "India",
+            "lake_surface_area": 1.0,
+            "lake_mean_depth": 6.2,
+            "lake_volume": 0.008
+        },
+        {
+            "name": "Lower Lough Erne",
+            "country": "UK",
+            "lake_surface_area": null,
+            "lake_mean_depth": 11.9,
+            "lake_volume": null
+        },
+        {
+            "name": "Lower Seletar Reservoir",
+            "country": "Singapore",
+            "lake_surface_area": 4.0,
+            "lake_mean_depth": 2.0,
+            "lake_volume": 0.0095
+        },
+        {
+            "name": "Luang Sea",
+            "country": "Thailand",
+            "lake_surface_area": 1290.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Lubans",
+            "country": "Latvia",
+            "lake_surface_area": 100.0,
+            "lake_mean_depth": 1.6,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Lugano",
+            "country": "Switzerland, Italy",
+            "lake_surface_area": 28.0,
+            "lake_mean_depth": 160.0,
+            "lake_volume": 4.4
+        },
+        {
+            "name": "Lake Lugu",
+            "country": "China",
+            "lake_surface_area": 48.0,
+            "lake_mean_depth": 40.3,
+            "lake_volume": 1.95
+        },
+        {
+            "name": "Lake Lukomskoje",
+            "country": "Belarus",
+            "lake_surface_area": 37.0,
+            "lake_mean_depth": 6.6,
+            "lake_volume": 0.24
+        },
+        {
+            "name": "Lunzer See",
+            "country": "Austria",
+            "lake_surface_area": 1.0,
+            "lake_mean_depth": 20.0,
+            "lake_volume": 0.01
+        },
+        {
+            "name": "Lake Mafu",
+            "country": "China",
+            "lake_surface_area": 7.0,
+            "lake_mean_depth": 65.7,
+            "lake_volume": 0.48
+        },
+        {
+            "name": "Lake Maggiore",
+            "country": "Switzerland, Italy",
+            "lake_surface_area": 213.0,
+            "lake_mean_depth": 176.5,
+            "lake_volume": 37.5
+        },
+        {
+            "name": "Maharana Pratap Sagar",
+            "country": "India",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Mai-Ndombe",
+            "country": "Congo  ( Dem. Rep. )",
+            "lake_surface_area": 2300.0,
+            "lake_mean_depth": 5.0,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Malaren",
+            "country": "Sweden",
+            "lake_surface_area": 1140.0,
+            "lake_mean_depth": 11.9,
+            "lake_volume": 13.6
+        },
+        {
+            "name": "Lake Malawi",
+            "country": "Malawi, Mozambique, Tanzania",
+            "lake_surface_area": 29600.0,
+            "lake_mean_depth": 292.0,
+            "lake_volume": 8400.0
+        },
+        {
+            "name": "Lake Malawi",
+            "country": "Malawi, Mozambique, Tanzania",
+            "lake_surface_area": 29600.0,
+            "lake_mean_depth": 292.0,
+            "lake_volume": 8400.0
+        },
+        {
+            "name": "Lake Mallasvesi",
+            "country": "Finland",
+            "lake_surface_area": 56.0,
+            "lake_mean_depth": null,
+            "lake_volume": 413.0
+        },
+        {
+            "name": "Lake Managua",
+            "country": "Nicaragua",
+            "lake_surface_area": 1016.0,
+            "lake_mean_depth": 7.8,
+            "lake_volume": 7.97
+        },
+        {
+            "name": "Lake Managua",
+            "country": "Nicaragua",
+            "lake_surface_area": 1016.0,
+            "lake_mean_depth": 7.8,
+            "lake_volume": 7.97
+        },
+        {
+            "name": "Manasbal Lake",
+            "country": "India",
+            "lake_surface_area": 3.0,
+            "lake_mean_depth": 4.5,
+            "lake_volume": 0.01
+        },
+        {
+            "name": "Manicouagan Reservoir",
+            "country": "Canada",
+            "lake_surface_area": 1950.0,
+            "lake_mean_depth": 85.0,
+            "lake_volume": 141.6
+        },
+        {
+            "name": "Lake Manitoba",
+            "country": "Canada",
+            "lake_surface_area": 4610.0,
+            "lake_mean_depth": null,
+            "lake_volume": 22.8
+        },
+        {
+            "name": "Lake Manzala",
+            "country": "Egypt",
+            "lake_surface_area": 1360.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Mar Chiquita",
+            "country": "Argentina",
+            "lake_surface_area": 1984.0,
+            "lake_mean_depth": 7.3,
+            "lake_volume": 14.48
+        },
+        {
+            "name": "Lake Maracaibo",
+            "country": "Venezuela",
+            "lake_surface_area": 13010.0,
+            "lake_mean_depth": null,
+            "lake_volume": 280.0
+        },
+        {
+            "name": "Mari Menuco Reservoir",
+            "country": "Argentina",
+            "lake_surface_area": 174.0,
+            "lake_mean_depth": 79.3,
+            "lake_volume": 13.8
+        },
+        {
+            "name": "Markermeer",
+            "country": "Netherlands",
+            "lake_surface_area": 700.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Martre",
+            "country": "Canada",
+            "lake_surface_area": 1690.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Mashu",
+            "country": "Japan",
+            "lake_surface_area": 19.0,
+            "lake_mean_depth": 141.3,
+            "lake_volume": 2.7
+        },
+        {
+            "name": "Masinga Reservoir",
+            "country": "Kenya",
+            "lake_surface_area": 120.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Massawippi Lake",
+            "country": "Canada",
+            "lake_surface_area": 18.0,
+            "lake_mean_depth": 41.6,
+            "lake_volume": 0.74
+        },
+        {
+            "name": "Lake Matano",
+            "country": "Indonesia",
+            "lake_surface_area": 164.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Melville",
+            "country": "Canada",
+            "lake_surface_area": 3069.0,
+            "lake_mean_depth": null,
+            "lake_volume": 313.0
+        },
+        {
+            "name": "Lake Memphremagog",
+            "country": "Canada, USA",
+            "lake_surface_area": 102.0,
+            "lake_mean_depth": 15.5,
+            "lake_volume": 1.7
+        },
+        {
+            "name": "Lake Mendota",
+            "country": "USA",
+            "lake_surface_area": 39.0,
+            "lake_mean_depth": 12.2,
+            "lake_volume": 0.48
+        },
+        {
+            "name": "Lake Menendez",
+            "country": "Argentina",
+            "lake_surface_area": 56.0,
+            "lake_mean_depth": 149.1,
+            "lake_volume": 8.31
+        },
+        {
+            "name": "Merowe Reservoir",
+            "country": "Sudan",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": 12.5
+        },
+        {
+            "name": "Lake Michigan",
+            "country": "USA",
+            "lake_surface_area": 58016.0,
+            "lake_mean_depth": 84.0,
+            "lake_volume": 4871.0
+        },
+        {
+            "name": "Michikamau Lake",
+            "country": "Canada",
+            "lake_surface_area": 2030.0,
+            "lake_mean_depth": null,
+            "lake_volume": 65.0
+        },
+        {
+            "name": "Lake Mihindi",
+            "country": "Rwanda",
+            "lake_surface_area": 7.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Milford Reservoir",
+            "country": "USA",
+            "lake_surface_area": 63.0,
+            "lake_mean_depth": 5.9,
+            "lake_volume": 0.37
+        },
+        {
+            "name": "Mille Lacs Lake",
+            "country": "USA",
+            "lake_surface_area": 540.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Mingetchaurskoye Reservoir",
+            "country": "Azerbaidjan",
+            "lake_surface_area": 603.0,
+            "lake_mean_depth": 26.0,
+            "lake_volume": 16.0
+        },
+        {
+            "name": "Miquelon Lake",
+            "country": "Canada",
+            "lake_surface_area": 9.0,
+            "lake_mean_depth": 2.7,
+            "lake_volume": 0.02
+        },
+        {
+            "name": "Mirim Lagoon",
+            "country": "Brazil, Uruguay",
+            "lake_surface_area": 2970.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Mistassini",
+            "country": "Canada",
+            "lake_surface_area": 2115.0,
+            "lake_mean_depth": 75.0,
+            "lake_volume": 150.0
+        },
+        {
+            "name": "Miyun Reservoir",
+            "country": "China",
+            "lake_surface_area": 188.0,
+            "lake_mean_depth": 2.32,
+            "lake_volume": 0.43
+        },
+        {
+            "name": "Lake Mjosa",
+            "country": "Norway",
+            "lake_surface_area": 365.0,
+            "lake_mean_depth": 153.0,
+            "lake_volume": 56.2
+        },
+        {
+            "name": "Mondsee",
+            "country": "Austria",
+            "lake_surface_area": 14.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Mono Lake",
+            "country": "USA",
+            "lake_surface_area": 180.0,
+            "lake_mean_depth": 16.5,
+            "lake_volume": 2.97
+        },
+        {
+            "name": "Moose Lake",
+            "country": "Canada",
+            "lake_surface_area": 1340.0,
+            "lake_mean_depth": 4.1,
+            "lake_volume": 7.12
+        },
+        {
+            "name": "Loch Morar",
+            "country": "UK",
+            "lake_surface_area": 27.0,
+            "lake_mean_depth": 86.6,
+            "lake_volume": 2.3
+        },
+        {
+            "name": "Lake Motosu",
+            "country": "Japan",
+            "lake_surface_area": 5.0,
+            "lake_mean_depth": 67.9,
+            "lake_volume": 0.316
+        },
+        {
+            "name": "Mozhaysk Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 31.0,
+            "lake_mean_depth": 7.7,
+            "lake_volume": 0.23
+        },
+        {
+            "name": "Lake Mpanga",
+            "country": "Rwanda",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Mtera Reservoir",
+            "country": "Tanzania",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Mugesera",
+            "country": "Rwanda",
+            "lake_surface_area": 40.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Muhazi",
+            "country": "Rwanda",
+            "lake_surface_area": 33.0,
+            "lake_mean_depth": 10.0,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Murray",
+            "country": "Papua New Guinea",
+            "lake_surface_area": 647.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Muskoka Lake",
+            "country": "Canada",
+            "lake_surface_area": 89.0,
+            "lake_mean_depth": 15.5,
+            "lake_volume": 1.38
+        },
+        {
+            "name": "Musters Lago",
+            "country": "Argentina",
+            "lake_surface_area": 414.0,
+            "lake_mean_depth": 20.0,
+            "lake_volume": 8.28
+        },
+        {
+            "name": "Lake Mutirikwi",
+            "country": "Zimbabwe",
+            "lake_surface_area": 90.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Mweru",
+            "country": "Congo  ( Dem. Rep. ), Zambia",
+            "lake_surface_area": 4350.0,
+            "lake_mean_depth": 7.0,
+            "lake_volume": 32.0
+        },
+        {
+            "name": "Nagarjuna Sagar Reservoir",
+            "country": "India",
+            "lake_surface_area": 285.0,
+            "lake_mean_depth": null,
+            "lake_volume": 11.0
+        },
+        {
+            "name": "Nagase Reservoir",
+            "country": "Japan",
+            "lake_surface_area": 2.0,
+            "lake_mean_depth": 28.2,
+            "lake_volume": 0.05
+        },
+        {
+            "name": "Lake Nahuel Huapi",
+            "country": "Argentina",
+            "lake_surface_area": 646.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Naivasha",
+            "country": "Kenya",
+            "lake_surface_area": 139.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Nakuru",
+            "country": "Kenya",
+            "lake_surface_area": 40.0,
+            "lake_mean_depth": 2.3,
+            "lake_volume": 0.09
+        },
+        {
+            "name": "Nam Ngum Reservoir",
+            "country": "Laos",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Namak",
+            "country": "Iran",
+            "lake_surface_area": 750.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Namu",
+            "country": "China",
+            "lake_surface_area": 1920.0,
+            "lake_mean_depth": 26.0,
+            "lake_volume": 49.92
+        },
+        {
+            "name": "Lake Naroch",
+            "country": "Belarus",
+            "lake_surface_area": 80.0,
+            "lake_mean_depth": 8.9,
+            "lake_volume": 0.71
+        },
+        {
+            "name": "Lake Nasho",
+            "country": "Rwanda",
+            "lake_surface_area": 12.4,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Nasser",
+            "country": "Egypt, Sudan",
+            "lake_surface_area": 5250.0,
+            "lake_mean_depth": 25.0,
+            "lake_volume": 132.0
+        },
+        {
+            "name": "Lake Natron",
+            "country": "Kenya, Tanzania",
+            "lake_surface_area": 560.0,
+            "lake_mean_depth": null,
+            "lake_volume": 0.0088
+        },
+        {
+            "name": "Lough Neagh",
+            "country": "UK",
+            "lake_surface_area": 385.0,
+            "lake_mean_depth": 8.9,
+            "lake_volume": 3.45
+        },
+        {
+            "name": "Loch Ness",
+            "country": "UK",
+            "lake_surface_area": 56.0,
+            "lake_mean_depth": 132.0,
+            "lake_volume": 7.45
+        },
+        {
+            "name": "Netilling Lake",
+            "country": "Canada",
+            "lake_surface_area": 5050.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Neusiedler See",
+            "country": "Austria, Hungary",
+            "lake_surface_area": 320.0,
+            "lake_mean_depth": 0.8,
+            "lake_volume": 0.25
+        },
+        {
+            "name": "Lake Ngoring",
+            "country": "China",
+            "lake_surface_area": 611.0,
+            "lake_mean_depth": 17.6,
+            "lake_volume": 10.76
+        },
+        {
+            "name": "Lake Nicaragua",
+            "country": "Nicaragua",
+            "lake_surface_area": 8150.0,
+            "lake_mean_depth": null,
+            "lake_volume": 108.0
+        },
+        {
+            "name": "Nidili",
+            "country": "Russia",
+            "lake_surface_area": 119.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Niegocin",
+            "country": "Poland",
+            "lake_surface_area": 26.0,
+            "lake_mean_depth": 10.0,
+            "lake_volume": 0.25
+        },
+        {
+            "name": "Lake Nipigon",
+            "country": "Canada",
+            "lake_surface_area": 4510.0,
+            "lake_mean_depth": 54.9,
+            "lake_volume": 248.0
+        },
+        {
+            "name": "Lake Nipissing",
+            "country": "Canada",
+            "lake_surface_area": 855.0,
+            "lake_mean_depth": 4.5,
+            "lake_volume": 3.84
+        },
+        {
+            "name": "Lake Nojiri",
+            "country": "Japan",
+            "lake_surface_area": 5.0,
+            "lake_mean_depth": 21.0,
+            "lake_volume": 0.09
+        },
+        {
+            "name": "Northern Mamry",
+            "country": "Poland",
+            "lake_surface_area": 25.0,
+            "lake_mean_depth": 12.0,
+            "lake_volume": 0.29
+        },
+        {
+            "name": "Northwood Lake",
+            "country": "USA",
+            "lake_surface_area": 3.0,
+            "lake_mean_depth": 3.7,
+            "lake_volume": 0.0097
+        },
+        {
+            "name": "Nova Avanhandava Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 210.0,
+            "lake_mean_depth": null,
+            "lake_volume": 2.7
+        },
+        {
+            "name": "Novosibirskoye Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 1090.0,
+            "lake_mean_depth": 9.0,
+            "lake_volume": 9.08
+        },
+        {
+            "name": "Lake Nubia",
+            "country": "Sudan",
+            "lake_surface_area": 968.0,
+            "lake_mean_depth": null,
+            "lake_volume": 24.4
+        },
+        {
+            "name": "Nueltin Lake",
+            "country": "Canada",
+            "lake_surface_area": 2030.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Nyumba ya Mungu Reservoir",
+            "country": "Tanzania",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake O' Higgins",
+            "country": "Argentina, Chile",
+            "lake_surface_area": 1058.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Obelija",
+            "country": "Lithuania",
+            "lake_surface_area": 6.0,
+            "lake_mean_depth": 4.5,
+            "lake_volume": 0.02
+        },
+        {
+            "name": "Lake Ogawara",
+            "country": "Japan",
+            "lake_surface_area": 62.0,
+            "lake_mean_depth": 11.2,
+            "lake_volume": 0.71
+        },
+        {
+            "name": "Oguta Lake",
+            "country": "Nigeria",
+            "lake_surface_area": 2.0,
+            "lake_mean_depth": 5.5,
+            "lake_volume": 0.01
+        },
+        {
+            "name": "Lake Ohrid",
+            "country": "Albania, Macedonia",
+            "lake_surface_area": 358.0,
+            "lake_mean_depth": 164.0,
+            "lake_volume": 53.63
+        },
+        {
+            "name": "Okanagan Lake",
+            "country": "Canada",
+            "lake_surface_area": 351.0,
+            "lake_mean_depth": 76.0,
+            "lake_volume": 24.64
+        },
+        {
+            "name": "Lake Okeechobee",
+            "country": "USA",
+            "lake_surface_area": 1894.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Okutama Reservoir",
+            "country": "Japan",
+            "lake_surface_area": 4.0,
+            "lake_mean_depth": 44.4,
+            "lake_volume": 0.18
+        },
+        {
+            "name": "Okutama Reservoir",
+            "country": "Japan",
+            "lake_surface_area": 4.0,
+            "lake_mean_depth": 44.4,
+            "lake_volume": 0.18
+        },
+        {
+            "name": "Lake Onega",
+            "country": "Russia",
+            "lake_surface_area": 9890.0,
+            "lake_mean_depth": 30.0,
+            "lake_volume": 280.0
+        },
+        {
+            "name": "Lake Ontario",
+            "country": "Canada, USA",
+            "lake_surface_area": 19009.0,
+            "lake_mean_depth": 86.0,
+            "lake_volume": 1638.0
+        },
+        {
+            "name": "Opinaca Reservoir",
+            "country": "Canada",
+            "lake_surface_area": 1040.0,
+            "lake_mean_depth": 8.2,
+            "lake_volume": 8.5
+        },
+        {
+            "name": "Lake Orta",
+            "country": "Italy",
+            "lake_surface_area": 18.0,
+            "lake_mean_depth": 70.9,
+            "lake_volume": 1.24
+        },
+        {
+            "name": "Lake Oulu",
+            "country": "Finland",
+            "lake_surface_area": 900.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Owasco Lake",
+            "country": "USA",
+            "lake_surface_area": 27.0,
+            "lake_mean_depth": 29.3,
+            "lake_volume": 0.78
+        },
+        {
+            "name": "Lake Oze",
+            "country": "Japan",
+            "lake_surface_area": 2.0,
+            "lake_mean_depth": 4.1,
+            "lake_volume": 0.0066
+        },
+        {
+            "name": "Lake Paajarvi",
+            "country": "Finland",
+            "lake_surface_area": 14.0,
+            "lake_mean_depth": 14.0,
+            "lake_volume": 0.2
+        },
+        {
+            "name": "Lake Paanajarvi",
+            "country": "Russia",
+            "lake_surface_area": 24.0,
+            "lake_mean_depth": 37.8,
+            "lake_volume": 0.89
+        },
+        {
+            "name": "Lake Paijanne",
+            "country": "Finland",
+            "lake_surface_area": 1100.0,
+            "lake_mean_depth": 17.0,
+            "lake_volume": 17.8
+        },
+        {
+            "name": "Panchet Reservoir",
+            "country": "India",
+            "lake_surface_area": 28.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Pangong",
+            "country": "China, India",
+            "lake_surface_area": 600.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Parakrama",
+            "country": "Sri Lanka",
+            "lake_surface_area": 23.0,
+            "lake_mean_depth": 5.0,
+            "lake_volume": 0.12
+        },
+        {
+            "name": "Patos Lagoon",
+            "country": "Brazil",
+            "lake_surface_area": 10140.0,
+            "lake_mean_depth": 5.0,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Patzcuaro",
+            "country": "Mexico",
+            "lake_surface_area": 130.0,
+            "lake_mean_depth": 4.9,
+            "lake_volume": 0.62
+        },
+        {
+            "name": "Lake Peipsi",
+            "country": "Estonia, Russia",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Peipsi",
+            "country": "Estonia, Russia",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Peipus",
+            "country": "Estonia, Russia",
+            "lake_surface_area": 3555.0,
+            "lake_mean_depth": 7.1,
+            "lake_volume": 25.0
+        },
+        {
+            "name": "Lake Peipus",
+            "country": "Estonia, Russia",
+            "lake_surface_area": 3555.0,
+            "lake_mean_depth": 7.1,
+            "lake_volume": 25.0
+        },
+        {
+            "name": "Pellegrini",
+            "country": "Argentina",
+            "lake_surface_area": 112.0,
+            "lake_mean_depth": 9.4,
+            "lake_volume": 1.05
+        },
+        {
+            "name": "Lake Phewa",
+            "country": "Nepal",
+            "lake_surface_area": 5.0,
+            "lake_mean_depth": 8.6,
+            "lake_volume": 0.03
+        },
+        {
+            "name": "Piedra Del Aguila Reservoir",
+            "country": "Argentina",
+            "lake_surface_area": 305.0,
+            "lake_mean_depth": 41.3,
+            "lake_volume": 12.6
+        },
+        {
+            "name": "Lake Pielinen",
+            "country": "Finland",
+            "lake_surface_area": 867.0,
+            "lake_mean_depth": 9.9,
+            "lake_volume": 8.5
+        },
+        {
+            "name": "Pipmuacan",
+            "country": "Canada",
+            "lake_surface_area": 803.0,
+            "lake_mean_depth": null,
+            "lake_volume": 12.3
+        },
+        {
+            "name": "Lake Piso",
+            "country": "Liberia",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Plitvice Lakes",
+            "country": "Croatia",
+            "lake_surface_area": 2.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Poechos Reservoir",
+            "country": "Peru",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": 1.0
+        },
+        {
+            "name": "Lake Pomo",
+            "country": "China",
+            "lake_surface_area": 880.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Pontchartrain",
+            "country": "USA",
+            "lake_surface_area": 1620.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Poopo",
+            "country": "Bolivia",
+            "lake_surface_area": 3191.0,
+            "lake_mean_depth": 2.4,
+            "lake_volume": null
+        },
+        {
+            "name": "Porto Primavera Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 2250.0,
+            "lake_mean_depth": null,
+            "lake_volume": 20.0
+        },
+        {
+            "name": "Powai Lake",
+            "country": "India",
+            "lake_surface_area": 2.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Poyang Lake",
+            "country": "China",
+            "lake_surface_area": 3210.0,
+            "lake_mean_depth": 8.4,
+            "lake_volume": 25.2
+        },
+        {
+            "name": "Lake Prespa",
+            "country": "Albania, Greece, Macedonia",
+            "lake_surface_area": 259.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Proletarskoye Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 780.0,
+            "lake_mean_depth": 2.4,
+            "lake_volume": 2.0
+        },
+        {
+            "name": "Promissao Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 530.0,
+            "lake_mean_depth": null,
+            "lake_volume": 7.4
+        },
+        {
+            "name": "Puelo Lake",
+            "country": "Argentina",
+            "lake_surface_area": 44.0,
+            "lake_mean_depth": 111.4,
+            "lake_volume": 4.9
+        },
+        {
+            "name": "Pulicat Lake",
+            "country": "India",
+            "lake_surface_area": 450.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Pyasino",
+            "country": "Russia",
+            "lake_surface_area": 735.0,
+            "lake_mean_depth": 4.0,
+            "lake_volume": null
+        },
+        {
+            "name": "Pyramid Lake",
+            "country": "USA",
+            "lake_surface_area": 453.0,
+            "lake_mean_depth": 60.0,
+            "lake_volume": 27.0
+        },
+        {
+            "name": "Lake Qilin",
+            "country": "China",
+            "lake_surface_area": 1640.0,
+            "lake_mean_depth": 33.0,
+            "lake_volume": 54.12
+        },
+        {
+            "name": "Qinghai Lake",
+            "country": "China",
+            "lake_surface_area": 4186.0,
+            "lake_mean_depth": 18.6,
+            "lake_volume": 85.45
+        },
+        {
+            "name": "Lake Qionghai",
+            "country": "China",
+            "lake_surface_area": 31.0,
+            "lake_mean_depth": 14.0,
+            "lake_volume": 0.32
+        },
+        {
+            "name": "Qullen Lake",
+            "country": "Argentina",
+            "lake_surface_area": 23.0,
+            "lake_mean_depth": 59.0,
+            "lake_volume": 1.35
+        },
+        {
+            "name": "Rainy Lake",
+            "country": "Canada, USA",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Rana Pratap Sagar Reservoir",
+            "country": "India",
+            "lake_surface_area": 200.0,
+            "lake_mean_depth": null,
+            "lake_volume": 2.8
+        },
+        {
+            "name": "Lake Ranco",
+            "country": "Chile",
+            "lake_surface_area": 401.0,
+            "lake_mean_depth": 122.0,
+            "lake_volume": 54.06
+        },
+        {
+            "name": "Ranjit Sagar Dam Lake",
+            "country": "India",
+            "lake_surface_area": 240.0,
+            "lake_mean_depth": null,
+            "lake_volume": 8.5
+        },
+        {
+            "name": "Lake Rara",
+            "country": "Nepal",
+            "lake_surface_area": 10.0,
+            "lake_mean_depth": 100.0,
+            "lake_volume": 0.98
+        },
+        {
+            "name": "Red Lake",
+            "country": "USA",
+            "lake_surface_area": 1170.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Ree",
+            "country": "Ireland",
+            "lake_surface_area": 105.0,
+            "lake_mean_depth": 6.2,
+            "lake_volume": 0.65
+        },
+        {
+            "name": "Reindeer Lake",
+            "country": "Canada",
+            "lake_surface_area": 5650.0,
+            "lake_mean_depth": 17.0,
+            "lake_volume": 95.25
+        },
+        {
+            "name": "Lake Rinihue",
+            "country": "Chile",
+            "lake_surface_area": 78.0,
+            "lake_mean_depth": 162.0,
+            "lake_volume": 12.6
+        },
+        {
+            "name": "Rio Hondo Reservoir",
+            "country": "Argentina",
+            "lake_surface_area": 330.0,
+            "lake_mean_depth": 5.3,
+            "lake_volume": 1.74
+        },
+        {
+            "name": "Rio Tercero I Reservoir",
+            "country": "Argentina",
+            "lake_surface_area": 54.0,
+            "lake_mean_depth": 13.5,
+            "lake_volume": 0.73
+        },
+        {
+            "name": "Rivadavia Lake",
+            "country": "Argentina",
+            "lake_surface_area": 22.0,
+            "lake_mean_depth": 103.7,
+            "lake_volume": 2.25
+        },
+        {
+            "name": "Lake Rocha",
+            "country": "Uruguay",
+            "lake_surface_area": 72.0,
+            "lake_mean_depth": 0.58,
+            "lake_volume": 0.04
+        },
+        {
+            "name": "Lake Rogaguado",
+            "country": "Bolivia",
+            "lake_surface_area": 315.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Ronge",
+            "country": "Canada",
+            "lake_surface_area": 1330.0,
+            "lake_mean_depth": 14.6,
+            "lake_volume": 17.6
+        },
+        {
+            "name": "Roosevelt Lake",
+            "country": "USA",
+            "lake_surface_area": 70.0,
+            "lake_mean_depth": 47.09,
+            "lake_volume": 1.65
+        },
+        {
+            "name": "Rosana Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 220.0,
+            "lake_mean_depth": null,
+            "lake_volume": 1.9
+        },
+        {
+            "name": "Roseires Reservoir",
+            "country": "Sudan",
+            "lake_surface_area": 290.0,
+            "lake_mean_depth": null,
+            "lake_volume": 7.4
+        },
+        {
+            "name": "Lake Rotorua",
+            "country": "New Zealand",
+            "lake_surface_area": 80.0,
+            "lake_mean_depth": 11.0,
+            "lake_volume": 0.87
+        },
+        {
+            "name": "Lake Ruhondo",
+            "country": "Rwanda",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Rukwa",
+            "country": "Tanzania",
+            "lake_surface_area": 3000.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Rwanyakizinga",
+            "country": "Rwanda",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Rweru",
+            "country": "Burundi, Rwanda",
+            "lake_surface_area": 126.0,
+            "lake_mean_depth": 2.1,
+            "lake_volume": null
+        },
+        {
+            "name": "Rybinsk Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 4550.0,
+            "lake_mean_depth": 5.6,
+            "lake_volume": 25.4
+        },
+        {
+            "name": "Sagami Reservoir",
+            "country": "Japan",
+            "lake_surface_area": 3.0,
+            "lake_mean_depth": 19.0,
+            "lake_volume": 0.06
+        },
+        {
+            "name": "Lake Sagar",
+            "country": "India",
+            "lake_surface_area": 1.0,
+            "lake_mean_depth": 2.0,
+            "lake_volume": 0.002297333
+        },
+        {
+            "name": "Saguaro Lake",
+            "country": "USA",
+            "lake_surface_area": 5.0,
+            "lake_mean_depth": null,
+            "lake_volume": 0.08
+        },
+        {
+            "name": "Lake Saguling",
+            "country": "Indonesia",
+            "lake_surface_area": 53.0,
+            "lake_mean_depth": null,
+            "lake_volume": 2.75
+        },
+        {
+            "name": "Lake Saimaa",
+            "country": "Finland",
+            "lake_surface_area": 1760.0,
+            "lake_mean_depth": null,
+            "lake_volume": 36.0
+        },
+        {
+            "name": "Lake Saint-John",
+            "country": "Canada",
+            "lake_surface_area": 1053.0,
+            "lake_mean_depth": 11.4,
+            "lake_volume": 11.9
+        },
+        {
+            "name": "Lake Saint-John",
+            "country": "Canada",
+            "lake_surface_area": 1053.0,
+            "lake_mean_depth": 11.4,
+            "lake_volume": 11.9
+        },
+        {
+            "name": "Lake Sake",
+            "country": "Rwanda",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Salto Grande Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 12.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Salto Grande",
+            "country": "Argentina, Uruguay",
+            "lake_surface_area": 783.0,
+            "lake_mean_depth": 6.4,
+            "lake_volume": 5.0
+        },
+        {
+            "name": "Salton Sea",
+            "country": "USA",
+            "lake_surface_area": 950.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Samuel Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 560.0,
+            "lake_mean_depth": 5.8,
+            "lake_volume": 3.25
+        },
+        {
+            "name": "San Roque Reservoir",
+            "country": "Argentina",
+            "lake_surface_area": 17.0,
+            "lake_mean_depth": 11.0,
+            "lake_volume": 0.19
+        },
+        {
+            "name": "Lake Sancha",
+            "country": "China",
+            "lake_surface_area": 27.0,
+            "lake_mean_depth": 8.2,
+            "lake_volume": 0.22
+        },
+        {
+            "name": "Lake Sapanca",
+            "country": "Turkey",
+            "lake_surface_area": 40.0,
+            "lake_mean_depth": null,
+            "lake_volume": 1.12
+        },
+        {
+            "name": "Saratovskoye Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 1830.0,
+            "lake_mean_depth": 7.0,
+            "lake_volume": 12.9
+        },
+        {
+            "name": "Sardar Sarovar Dam Reservoir",
+            "country": "India",
+            "lake_surface_area": 375.0,
+            "lake_mean_depth": null,
+            "lake_volume": 6.0
+        },
+        {
+            "name": "Lake Saroma",
+            "country": "Japan",
+            "lake_surface_area": 150.0,
+            "lake_mean_depth": 8.7,
+            "lake_volume": 1.3
+        },
+        {
+            "name": "Sarygamysh Lake",
+            "country": "Turkmenistan, Uzbekistan",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Sasykkol",
+            "country": "Kazakhstan",
+            "lake_surface_area": 736.0,
+            "lake_mean_depth": 3.3,
+            "lake_volume": 2.43
+        },
+        {
+            "name": "Sayanskoye Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 621.0,
+            "lake_mean_depth": null,
+            "lake_volume": 31.3
+        },
+        {
+            "name": "Lake Segozero",
+            "country": "Russia",
+            "lake_surface_area": 815.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Selawik Lake",
+            "country": "USA",
+            "lake_surface_area": 1400.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Seletyteniz",
+            "country": "Kazakhstan",
+            "lake_surface_area": 777.0,
+            "lake_mean_depth": 1.9,
+            "lake_volume": 1.54
+        },
+        {
+            "name": "Seneca Lake",
+            "country": "USA",
+            "lake_surface_area": 175.0,
+            "lake_mean_depth": 88.6,
+            "lake_volume": 15.5
+        },
+        {
+            "name": "Sennar Reservoir",
+            "country": "Sudan",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Sentarum",
+            "country": "Indonesia",
+            "lake_surface_area": 890.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Seul",
+            "country": "Canada",
+            "lake_surface_area": 1450.0,
+            "lake_mean_depth": 7.1,
+            "lake_volume": 15.0
+        },
+        {
+            "name": "Lake Sevan",
+            "country": "Armenia",
+            "lake_surface_area": 1360.0,
+            "lake_mean_depth": 41.0,
+            "lake_volume": 58.5
+        },
+        {
+            "name": "Lake Shala",
+            "country": "Ethiopia",
+            "lake_surface_area": 329.0,
+            "lake_mean_depth": 87.0,
+            "lake_volume": 36.7
+        },
+        {
+            "name": "Shardara Reservoir",
+            "country": "Kazakhstan, Uzbekistan",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Sheksninskoye Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 1290.0,
+            "lake_mean_depth": 4.5,
+            "lake_volume": 5.2
+        },
+        {
+            "name": "Sheksninskoye Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 1290.0,
+            "lake_mean_depth": 4.5,
+            "lake_volume": 5.2
+        },
+        {
+            "name": "Shey Phoksundo Lake",
+            "country": "Nepal",
+            "lake_surface_area": 4.9,
+            "lake_mean_depth": null,
+            "lake_volume": 0.4
+        },
+        {
+            "name": "Loch Shiel",
+            "country": "UK",
+            "lake_surface_area": 20.0,
+            "lake_mean_depth": 40.5,
+            "lake_volume": 0.9
+        },
+        {
+            "name": "Lake Shikotsu",
+            "country": "Japan",
+            "lake_surface_area": 79.0,
+            "lake_mean_depth": 266.0,
+            "lake_volume": 20.95
+        },
+        {
+            "name": "Lake Shinji",
+            "country": "Japan",
+            "lake_surface_area": 80.0,
+            "lake_mean_depth": 4.5,
+            "lake_volume": 0.36
+        },
+        {
+            "name": "Lake Shlavantas",
+            "country": "Lithuania",
+            "lake_surface_area": 2.0,
+            "lake_mean_depth": 10.5,
+            "lake_volume": 0.01
+        },
+        {
+            "name": "Lake Shumarinai",
+            "country": "Japan",
+            "lake_surface_area": 24.0,
+            "lake_mean_depth": 10.0,
+            "lake_volume": 0.24
+        },
+        {
+            "name": "Shuswap Lake",
+            "country": "Canada",
+            "lake_surface_area": 310.0,
+            "lake_mean_depth": 62.0,
+            "lake_volume": 19.1
+        },
+        {
+            "name": "Lake Sibaya",
+            "country": "South Africa",
+            "lake_surface_area": 78.0,
+            "lake_mean_depth": 12.6,
+            "lake_volume": 0.98
+        },
+        {
+            "name": "Lake Simcoe",
+            "country": "Canada",
+            "lake_surface_area": 725.0,
+            "lake_mean_depth": 15.0,
+            "lake_volume": 11.6
+        },
+        {
+            "name": "Singkarak",
+            "country": "Indonesia",
+            "lake_surface_area": 112.0,
+            "lake_mean_depth": null,
+            "lake_volume": 45.0
+        },
+        {
+            "name": "Lake Skadar",
+            "country": "Albania, Montenegro",
+            "lake_surface_area": 372.0,
+            "lake_mean_depth": 5.0,
+            "lake_volume": 1.93
+        },
+        {
+            "name": "Skaha Lake",
+            "country": "Canada",
+            "lake_surface_area": 20.0,
+            "lake_mean_depth": 26.0,
+            "lake_volume": 0.55
+        },
+        {
+            "name": "Lake Slapy",
+            "country": "Czech",
+            "lake_surface_area": 13.0,
+            "lake_mean_depth": 20.7,
+            "lake_volume": 0.27
+        },
+        {
+            "name": "Smallwood Reservoir",
+            "country": "Canada",
+            "lake_surface_area": 6475.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Smith Mountain Lake",
+            "country": "USA",
+            "lake_surface_area": 81.0,
+            "lake_mean_depth": 35.1,
+            "lake_volume": 2.8
+        },
+        {
+            "name": "Lake Sniardwy",
+            "country": "Poland",
+            "lake_surface_area": 110.0,
+            "lake_mean_depth": 5.8,
+            "lake_volume": 0.65
+        },
+        {
+            "name": "Sobradinho Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 4220.0,
+            "lake_mean_depth": 8.6,
+            "lake_volume": 34.1
+        },
+        {
+            "name": "Somasila Reservoir",
+            "country": "India",
+            "lake_surface_area": 212.0,
+            "lake_mean_depth": null,
+            "lake_volume": 2.2
+        },
+        {
+            "name": "Lake Songkhla",
+            "country": "Thailand",
+            "lake_surface_area": 1082.0,
+            "lake_mean_depth": 1.4,
+            "lake_volume": 1.6
+        },
+        {
+            "name": "Southern Indian Lake",
+            "country": "Canada",
+            "lake_surface_area": 2391.0,
+            "lake_mean_depth": 9.8,
+            "lake_volume": 23.4
+        },
+        {
+            "name": "St. Clair Lake",
+            "country": "Canada, USA",
+            "lake_surface_area": 1114.0,
+            "lake_mean_depth": 3.6,
+            "lake_volume": 4.01
+        },
+        {
+            "name": "Starnberger See",
+            "country": "Germany",
+            "lake_surface_area": 56.0,
+            "lake_mean_depth": 53.2,
+            "lake_volume": 2.99
+        },
+        {
+            "name": "Starnberger See",
+            "country": "Germany",
+            "lake_surface_area": 56.0,
+            "lake_mean_depth": 53.2,
+            "lake_volume": 2.99
+        },
+        {
+            "name": "Lake Stechlin",
+            "country": "Germany",
+            "lake_surface_area": 4.0,
+            "lake_mean_depth": 22.8,
+            "lake_volume": 0.09
+        },
+        {
+            "name": "Lake Superior",
+            "country": "Canada, USA",
+            "lake_surface_area": 82367.0,
+            "lake_mean_depth": 148.0,
+            "lake_volume": 12221.0
+        },
+        {
+            "name": "Lake Suwa",
+            "country": "Japan",
+            "lake_surface_area": 13.0,
+            "lake_mean_depth": 4.7,
+            "lake_volume": 0.06
+        },
+        {
+            "name": "Szczecin Lagoon",
+            "country": "Germany, Poland",
+            "lake_surface_area": 900.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Szczecin Lagoon",
+            "country": "Germany, Poland",
+            "lake_surface_area": 900.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Taal",
+            "country": "Philippines",
+            "lake_surface_area": 234.0,
+            "lake_mean_depth": 100.0,
+            "lake_volume": 23.42
+        },
+        {
+            "name": "Lake Tahoe",
+            "country": "USA",
+            "lake_surface_area": 499.0,
+            "lake_mean_depth": 313.0,
+            "lake_volume": 156.0
+        },
+        {
+            "name": "Lake Tai",
+            "country": "China",
+            "lake_surface_area": 2428.0,
+            "lake_mean_depth": 1.9,
+            "lake_volume": 4.3
+        },
+        {
+            "name": "Takiyuak Lake",
+            "country": "Canada",
+            "lake_surface_area": 1030.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Tana",
+            "country": "Ethiopia",
+            "lake_surface_area": 3600.0,
+            "lake_mean_depth": 9.0,
+            "lake_volume": 28.0
+        },
+        {
+            "name": "Lake Tanganyika",
+            "country": "Burundi, Congo  ( Dem. Rep. ), Tanzania, Zambia",
+            "lake_surface_area": 32000.0,
+            "lake_mean_depth": 572.0,
+            "lake_volume": 17800.0
+        },
+        {
+            "name": "Lake Tangra",
+            "country": "China",
+            "lake_surface_area": 1400.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Taquarucu Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 74.0,
+            "lake_mean_depth": null,
+            "lake_volume": 1.8
+        },
+        {
+            "name": "Tarbela Reservoir",
+            "country": "Pakistan",
+            "lake_surface_area": 240.0,
+            "lake_mean_depth": null,
+            "lake_volume": 13.9
+        },
+        {
+            "name": "Tasek Bera",
+            "country": "Malaysia",
+            "lake_surface_area": 62.0,
+            "lake_mean_depth": 2.25,
+            "lake_volume": 0.13
+        },
+        {
+            "name": "Tasek Bera",
+            "country": "Malaysia",
+            "lake_surface_area": 62.0,
+            "lake_mean_depth": 2.25,
+            "lake_volume": 0.13
+        },
+        {
+            "name": "Lake Taupo",
+            "country": "New Zealand",
+            "lake_surface_area": 616.0,
+            "lake_mean_depth": 91.0,
+            "lake_volume": 60.0
+        },
+        {
+            "name": "Lake Taymyr",
+            "country": "Russia",
+            "lake_surface_area": 4560.0,
+            "lake_mean_depth": 2.8,
+            "lake_volume": 13.0
+        },
+        {
+            "name": "Lake Tazawa",
+            "country": "Japan",
+            "lake_surface_area": 26.0,
+            "lake_mean_depth": 280.0,
+            "lake_volume": 7.0
+        },
+        {
+            "name": "Tchardarinskoye Reservoir",
+            "country": "Kazakhstan",
+            "lake_surface_area": 900.0,
+            "lake_mean_depth": 6.3,
+            "lake_volume": 5.7
+        },
+        {
+            "name": "Tega-numa",
+            "country": "Japan",
+            "lake_surface_area": 7.0,
+            "lake_mean_depth": 0.86,
+            "lake_volume": 0.0056
+        },
+        {
+            "name": "Tengiz",
+            "country": "Kazakhstan",
+            "lake_surface_area": 1590.0,
+            "lake_mean_depth": 7.0,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Terhiyn Tsagaan",
+            "country": "Mongolia",
+            "lake_surface_area": 61.0,
+            "lake_mean_depth": 7.0,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Terinam",
+            "country": "China",
+            "lake_surface_area": 810.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Terminos Lagoon",
+            "country": "Mexico",
+            "lake_surface_area": 1550.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Teshekpuk Lake",
+            "country": "USA",
+            "lake_surface_area": 820.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Tharthar",
+            "country": "Iraq",
+            "lake_surface_area": 2710.0,
+            "lake_mean_depth": 40.0,
+            "lake_volume": null
+        },
+        {
+            "name": "The West Lake",
+            "country": "China",
+            "lake_surface_area": 6.0,
+            "lake_mean_depth": 2.0,
+            "lake_volume": 0.01
+        },
+        {
+            "name": "The West Lake",
+            "country": "China",
+            "lake_surface_area": 6.0,
+            "lake_mean_depth": 2.0,
+            "lake_volume": 0.01
+        },
+        {
+            "name": "Lake Thingvalla",
+            "country": "Iceland",
+            "lake_surface_area": 84.0,
+            "lake_mean_depth": 34.1,
+            "lake_volume": 2.85
+        },
+        {
+            "name": "Lake Titicaca",
+            "country": "Bolivia, Peru",
+            "lake_surface_area": 8372.0,
+            "lake_mean_depth": 107.0,
+            "lake_volume": 893.0
+        },
+        {
+            "name": "Tjeuke meer",
+            "country": "Netherlands",
+            "lake_surface_area": 21.0,
+            "lake_mean_depth": 2.0,
+            "lake_volume": 0.04
+        },
+        {
+            "name": "Lake Toba",
+            "country": "Indonesia",
+            "lake_surface_area": 1100.0,
+            "lake_mean_depth": null,
+            "lake_volume": 240.0
+        },
+        {
+            "name": "Lake Todos los Santos",
+            "country": "Chile",
+            "lake_surface_area": 179.0,
+            "lake_mean_depth": 191.0,
+            "lake_volume": 34.4
+        },
+        {
+            "name": "Tonle Sap",
+            "country": "Cambodia",
+            "lake_surface_area": 30000.0,
+            "lake_mean_depth": null,
+            "lake_volume": 40.0
+        },
+        {
+            "name": "Topopyozerskoye Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 986.0,
+            "lake_mean_depth": 16.0,
+            "lake_volume": 15.6
+        },
+        {
+            "name": "Lake Torrens",
+            "country": "Australia",
+            "lake_surface_area": 5780.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Towada",
+            "country": "Japan",
+            "lake_surface_area": 59.0,
+            "lake_mean_depth": 71.0,
+            "lake_volume": 4.2
+        },
+        {
+            "name": "Lake Toya",
+            "country": "Japan",
+            "lake_surface_area": 70.0,
+            "lake_mean_depth": 116.0,
+            "lake_volume": 8.19
+        },
+        {
+            "name": "Lake Trasimeno",
+            "country": "Italy",
+            "lake_surface_area": 124.0,
+            "lake_mean_depth": 4.72,
+            "lake_volume": 0.58
+        },
+        {
+            "name": "Lake Traunsee",
+            "country": "Austria",
+            "lake_surface_area": 24.0,
+            "lake_mean_depth": 91.3,
+            "lake_volume": 2.23
+        },
+        {
+            "name": "Tres Irmaos Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 770.0,
+            "lake_mean_depth": null,
+            "lake_volume": 13.5
+        },
+        {
+            "name": "Lake Trummen",
+            "country": "Sweden",
+            "lake_surface_area": 1.0,
+            "lake_mean_depth": 1.6,
+            "lake_volume": 0.00126
+        },
+        {
+            "name": "Tsimlyansk Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 2702.0,
+            "lake_mean_depth": 8.8,
+            "lake_volume": 23.7
+        },
+        {
+            "name": "Tucurui Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 2430.0,
+            "lake_mean_depth": 18.9,
+            "lake_volume": 45.8
+        },
+        {
+            "name": "Tulsi Lake",
+            "country": "India",
+            "lake_surface_area": 1.3,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Tumba",
+            "country": "Congo  ( Dem. Rep. )",
+            "lake_surface_area": 500.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Tungabhadra Reservoir",
+            "country": "India",
+            "lake_surface_area": 350.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Turkana",
+            "country": "Ethiopia, Kenya",
+            "lake_surface_area": 6750.0,
+            "lake_mean_depth": 30.2,
+            "lake_volume": 203.6
+        },
+        {
+            "name": "Lake Turkana",
+            "country": "Ethiopia, Kenya",
+            "lake_surface_area": 6750.0,
+            "lake_mean_depth": 30.2,
+            "lake_volume": 203.6
+        },
+        {
+            "name": "Lake Tuz",
+            "country": "Turkey",
+            "lake_surface_area": 1500.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Twin Lakes",
+            "country": "USA",
+            "lake_surface_area": 11.0,
+            "lake_mean_depth": 15.44,
+            "lake_volume": 0.17
+        },
+        {
+            "name": "Lake Ubinskoe",
+            "country": "Russia",
+            "lake_surface_area": 559.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Ubolratana Reservoir",
+            "country": "Thailand",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Udawalawa Reservoir",
+            "country": "Sri Lanka",
+            "lake_surface_area": 36.0,
+            "lake_mean_depth": 13.41,
+            "lake_volume": 0.26
+        },
+        {
+            "name": "Uglich Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 249.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Ullswater",
+            "country": "UK",
+            "lake_surface_area": 9.0,
+            "lake_mean_depth": 25.3,
+            "lake_volume": 0.22
+        },
+        {
+            "name": "Lake Ulu Lepar System",
+            "country": "Malaysia",
+            "lake_surface_area": 2.0,
+            "lake_mean_depth": 2.0,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Ulungur",
+            "country": "China",
+            "lake_surface_area": 830.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Upemba",
+            "country": "Congo  ( Dem. Rep. )",
+            "lake_surface_area": 530.0,
+            "lake_mean_depth": null,
+            "lake_volume": 0.9
+        },
+        {
+            "name": "Upper Klamath Lake",
+            "country": "USA",
+            "lake_surface_area": 250.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Upper Lough Erne",
+            "country": "UK",
+            "lake_surface_area": 43.0,
+            "lake_mean_depth": 2.3,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Urmia",
+            "country": "Iran",
+            "lake_surface_area": 5960.0,
+            "lake_mean_depth": 5.0,
+            "lake_volume": 45.0
+        },
+        {
+            "name": "Lake Uru Uru",
+            "country": "Bolivia",
+            "lake_surface_area": 214.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Ust-Ilimskoye Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 1920.0,
+            "lake_mean_depth": 30.7,
+            "lake_volume": 58.9
+        },
+        {
+            "name": "Lake Uvildy",
+            "country": "Russia",
+            "lake_surface_area": 61.0,
+            "lake_mean_depth": 12.7,
+            "lake_volume": 0.77
+        },
+        {
+            "name": "Lake Uvs",
+            "country": "Mongolia",
+            "lake_surface_area": 3350.0,
+            "lake_mean_depth": 6.0,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Valencia",
+            "country": "Venezuela",
+            "lake_surface_area": 350.0,
+            "lake_mean_depth": 18.0,
+            "lake_volume": 6.3
+        },
+        {
+            "name": "Lake Van",
+            "country": "Turkey",
+            "lake_surface_area": 3713.0,
+            "lake_mean_depth": null,
+            "lake_volume": 607.0
+        },
+        {
+            "name": "Lake Vanajavesi",
+            "country": "Finland",
+            "lake_surface_area": 128.0,
+            "lake_mean_depth": null,
+            "lake_volume": 0.9
+        },
+        {
+            "name": "Lake Vanern",
+            "country": "Sweden",
+            "lake_surface_area": 5648.0,
+            "lake_mean_depth": 27.0,
+            "lake_volume": 153.0
+        },
+        {
+            "name": "Varna Lake",
+            "country": "Bulgaria",
+            "lake_surface_area": 17.0,
+            "lake_mean_depth": 9.5,
+            "lake_volume": 0.16
+        },
+        {
+            "name": "Lake Vattern",
+            "country": "Sweden",
+            "lake_surface_area": 1856.0,
+            "lake_mean_depth": 39.9,
+            "lake_volume": 74.0
+        },
+        {
+            "name": "Vau i Dejes Reservoir",
+            "country": "",
+            "lake_surface_area": null,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Veersemeer",
+            "country": "Netherlands",
+            "lake_surface_area": 20.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Velencei-to",
+            "country": "Hungary",
+            "lake_surface_area": 25.0,
+            "lake_mean_depth": 1.4,
+            "lake_volume": 0.03
+        },
+        {
+            "name": "Veluwemeer",
+            "country": "Netherlands",
+            "lake_surface_area": 30.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Victoria",
+            "country": "Kenya, Tanzania, Uganda",
+            "lake_surface_area": 68800.0,
+            "lake_mean_depth": 40.0,
+            "lake_volume": 2750.0
+        },
+        {
+            "name": "Lake Viedma",
+            "country": "Argentina",
+            "lake_surface_area": 1090.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Vihar Lake",
+            "country": "India",
+            "lake_surface_area": 7.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Viluyskoe Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 2170.0,
+            "lake_mean_depth": null,
+            "lake_volume": 35.9
+        },
+        {
+            "name": "Volgograd Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 3120.0,
+            "lake_mean_depth": 10.0,
+            "lake_volume": 31.45
+        },
+        {
+            "name": "Volta Lake",
+            "country": "Ghana",
+            "lake_surface_area": 8502.0,
+            "lake_mean_depth": 18.8,
+            "lake_volume": 148.0
+        },
+        {
+            "name": "Volta Grande Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 205.0,
+            "lake_mean_depth": null,
+            "lake_volume": 23.0
+        },
+        {
+            "name": "Lake Volvi",
+            "country": "Greece",
+            "lake_surface_area": 67.0,
+            "lake_mean_depth": 13.5,
+            "lake_volume": 0.9
+        },
+        {
+            "name": "Voronegskoe Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 70.0,
+            "lake_mean_depth": 2.9,
+            "lake_volume": 0.2
+        },
+        {
+            "name": "Lake Vortsjarv",
+            "country": "Estonia",
+            "lake_surface_area": 271.0,
+            "lake_mean_depth": 2.8,
+            "lake_volume": 0.76
+        },
+        {
+            "name": "Votkinskoye Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 1120.0,
+            "lake_mean_depth": 8.4,
+            "lake_volume": 9.7
+        },
+        {
+            "name": "Vygozersko-Ondskoye Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 1250.0,
+            "lake_mean_depth": 7.5,
+            "lake_volume": 9.26
+        },
+        {
+            "name": "Vygozersko-Ondskoye Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 1250.0,
+            "lake_mean_depth": 7.5,
+            "lake_volume": 9.26
+        },
+        {
+            "name": "Wabamun Lake",
+            "country": "Canada",
+            "lake_surface_area": 82.0,
+            "lake_mean_depth": 6.3,
+            "lake_volume": 0.51
+        },
+        {
+            "name": "Lake Washington",
+            "country": "USA",
+            "lake_surface_area": 88.0,
+            "lake_mean_depth": 32.9,
+            "lake_volume": 2.89
+        },
+        {
+            "name": "Wastwater",
+            "country": "UK",
+            "lake_surface_area": 3.0,
+            "lake_mean_depth": 39.7,
+            "lake_volume": 0.11
+        },
+        {
+            "name": "Webster Lake",
+            "country": "USA",
+            "lake_surface_area": 25.0,
+            "lake_mean_depth": 5.7,
+            "lake_volume": 0.14
+        },
+        {
+            "name": "Lake Wei-shan",
+            "country": "China",
+            "lake_surface_area": 1097.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Weija",
+            "country": "Ghana",
+            "lake_surface_area": 34.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake West",
+            "country": "Viet Nam",
+            "lake_surface_area": 4.0,
+            "lake_mean_depth": 1.7,
+            "lake_volume": 0.008
+        },
+        {
+            "name": "Lake West",
+            "country": "Viet Nam",
+            "lake_surface_area": 4.0,
+            "lake_mean_depth": 1.7,
+            "lake_volume": 0.008
+        },
+        {
+            "name": "Western Brook Pond",
+            "country": "Canada",
+            "lake_surface_area": 23.0,
+            "lake_mean_depth": 72.5,
+            "lake_volume": 1.65
+        },
+        {
+            "name": "Wigry",
+            "country": "Poland",
+            "lake_surface_area": 21.0,
+            "lake_mean_depth": 15.0,
+            "lake_volume": 0.33
+        },
+        {
+            "name": "Williston Lake",
+            "country": "Canada",
+            "lake_surface_area": 1779.0,
+            "lake_mean_depth": 43.3,
+            "lake_volume": 70.3
+        },
+        {
+            "name": "Windermere",
+            "country": "UK",
+            "lake_surface_area": 15.0,
+            "lake_mean_depth": 21.3,
+            "lake_volume": 0.31
+        },
+        {
+            "name": "Lake Winnipeg",
+            "country": "Canada",
+            "lake_surface_area": 23750.0,
+            "lake_mean_depth": 12.0,
+            "lake_volume": 284.0
+        },
+        {
+            "name": "Lake Winnipegosis",
+            "country": "Canada",
+            "lake_surface_area": 5150.0,
+            "lake_mean_depth": 4.24,
+            "lake_volume": 19.8
+        },
+        {
+            "name": "Wolfgangsee",
+            "country": "Austria",
+            "lake_surface_area": 13.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Wollaston Lake",
+            "country": "Canada",
+            "lake_surface_area": 2681.0,
+            "lake_mean_depth": 20.6,
+            "lake_volume": 39.8
+        },
+        {
+            "name": "Wood Lake",
+            "country": "Canada",
+            "lake_surface_area": 9.0,
+            "lake_mean_depth": 21.5,
+            "lake_volume": 0.19
+        },
+        {
+            "name": "Lake Woods",
+            "country": "Canada, USA",
+            "lake_surface_area": 4350.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Xavantes Reservoir",
+            "country": "Brazil",
+            "lake_surface_area": 400.0,
+            "lake_mean_depth": null,
+            "lake_volume": 8.8
+        },
+        {
+            "name": "Lake Xiaonanhai",
+            "country": "China",
+            "lake_surface_area": 3.0,
+            "lake_mean_depth": 30.0,
+            "lake_volume": 0.07
+        },
+        {
+            "name": "Yacyreta P.P. Reservoir",
+            "country": "Argentina, Paraguay",
+            "lake_surface_area": 1100.0,
+            "lake_mean_depth": 13.1,
+            "lake_volume": 21.0
+        },
+        {
+            "name": "Lake Yamdrok",
+            "country": "China",
+            "lake_surface_area": 678.0,
+            "lake_mean_depth": 23.6,
+            "lake_volume": 16.0
+        },
+        {
+            "name": "Yathkyed Lake",
+            "country": "Canada",
+            "lake_surface_area": 1330.0,
+            "lake_mean_depth": null,
+            "lake_volume": null
+        },
+        {
+            "name": "Lake Ypacarai",
+            "country": "Paraguay",
+            "lake_surface_area": 60.0,
+            "lake_mean_depth": 2.0,
+            "lake_volume": 0.11
+        },
+        {
+            "name": "Yuqiao Reservoir",
+            "country": "China",
+            "lake_surface_area": 250.0,
+            "lake_mean_depth": 4.6,
+            "lake_volume": 1.56
+        },
+        {
+            "name": "Lake Zaysan",
+            "country": "Kazakhstan",
+            "lake_surface_area": 5510.0,
+            "lake_mean_depth": 5.0,
+            "lake_volume": 53.0
+        },
+        {
+            "name": "Zeekoevlei",
+            "country": "South Africa",
+            "lake_surface_area": 3.0,
+            "lake_mean_depth": 1.9,
+            "lake_volume": 0.005
+        },
+        {
+            "name": "Zeiskoye Reservoir",
+            "country": "Russia",
+            "lake_surface_area": 2119.0,
+            "lake_mean_depth": null,
+            "lake_volume": 68.4
+        },
+        {
+            "name": "Lake Ziway",
+            "country": "Ethiopia",
+            "lake_surface_area": 485.0,
+            "lake_mean_depth": 2.5,
+            "lake_volume": 1.1
+        },
+        {
+            "name": "Lake Zug",
+            "country": "Switzerland",
+            "lake_surface_area": 38.0,
+            "lake_mean_depth": 83.0,
+            "lake_volume": 3.18
+        },
+        {
+            "name": "Zurich See",
+            "country": "Switzerland",
+            "lake_surface_area": 65.0,
+            "lake_mean_depth": 51.0,
+            "lake_volume": 3.3
+        }
+    ]
+}
